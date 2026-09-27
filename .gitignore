@@ -1,0 +1,5 @@
+garbgames/relay/queue/
+garbgames/relay/relay.log
+garbgames/relay/progress.json
+__pycache__/
+venv/

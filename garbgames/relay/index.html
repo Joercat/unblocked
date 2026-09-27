@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GBM — garbsoftball → Hugging Face</title>
+<style>
+  :root { --bg:#0b1020; --card:#131a2e; --line:#26304d; --tx:#e6eaf5; --dim:#8b96b5; --ok:#34d399; --warn:#fbbf24; --bad:#f87171; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--tx); font:15px/1.55 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+  .wrap { max-width:900px; margin:0 auto; padding:28px 20px 60px; }
+  h1 { font-size:24px; margin:0 0 4px; }
+  .sub { color:var(--dim); margin-bottom:22px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 20px; margin-bottom:16px; }
+  .card h2 { font-size:16px; margin:0 0 10px; display:flex; align-items:center; gap:10px; }
+  .step { display:inline-flex; align-items:center; justify-content:center; width:26px; height:26px; border-radius:50%; background:#1d4ed8; font-size:14px; font-weight:700; }
+  .kbd { font:12px ui-monospace,Menlo,monospace; background:#1f2947; border:1px solid #33406b; border-radius:5px; padding:1px 6px; }
+  code, pre { font-family:ui-monospace,Menlo,Consolas,monospace; }
+  code { background:#1f2947; padding:1px 6px; border-radius:5px; font-size:13px; }
+  .btn { background:#2563eb; border:0; color:#fff; font-weight:700; font-size:14px; padding:9px 16px; border-radius:9px; cursor:pointer; margin-top:10px; margin-right:8px; }
+  .btn:hover { background:#3b82f6; }
+  .btn.ghost { background:#1f2947; color:var(--tx); }
+  textarea { width:100%; margin-top:10px; background:#0d1326; color:#cbd5f0; border:1px solid var(--line); border-radius:10px; padding:12px; font:12px/1.4 ui-monospace,Menlo,monospace; height:180px; resize:vertical; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:10px; }
+  .stat { background:#0d1326; border:1px solid var(--line); border-radius:10px; padding:10px 12px; }
+  .stat .l { color:var(--dim); font-size:12px; text-transform:uppercase; letter-spacing:.05em; }
+  .stat .v { font-size:16px; font-weight:700; margin-top:2px; font-variant-numeric:tabular-nums; }
+  .stat .s { color:var(--dim); font-size:12px; margin-top:2px; word-break:break-all; }
+  .ok { color:var(--ok); } .warn { color:var(--warn); } .bad { color:var(--bad); }
+  .note { color:var(--dim); font-size:13px; margin-top:10px; }
+  .pill { font-size:11px; font-weight:700; border-radius:99px; padding:2px 9px; }
+  .pill.on { background:#064e3b; color:#6ee7b7; } .pill.off { background:#450a0a; color:#fca5a5; }
+  details { margin-top:12px; } summary { cursor:pointer; color:var(--dim); font-size:13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>GBM · garbsoftball.com → Hugging Face bucket</h1>
+  <div class="sub">580 games (~48 GB) get mirrored to <code id="bucketLabel">smodusermc/garbsoftball-games</code> by two console scripts you paste — one per tab. This relay is the byte pipe between them.</div>
+
+  <div class="card">
+    <h2><span class="step">1</span> Tab A — crawl (garbsoftball.com)</h2>
+    <div>Open <b>https://garbsoftball.com/g</b> in a new tab. Press <span class="kbd">F12</span> → <b>Console</b>, then paste <b>Script A</b> below and hit Enter. The green dashboard (top-right of that page) shows progress. <b>Keep that tab open.</b></div>
+    <div class="note">It crawls each game from the inside out (same-origin, so nothing is blocked), streams every file to this relay, and remembers progress — if you close it, just re-paste and it resumes.</div>
+    <button class="btn" id="copyA">Copy Script A</button><button class="btn ghost" id="showA">Show / select it</button>
+    <textarea id="taA" readonly spellcheck="false" style="display:none"></textarea>
+  </div>
+
+  <div class="card">
+    <h2><span class="step">2</span> Tab B — upload (huggingface.co)</h2>
+    <div>Open <b>https://huggingface.co/buckets/smodusermc/garbsoftball-games</b> in another tab (if it 404s, no problem — the script creates it). Press <span class="kbd">F12</span> → <b>Console</b>, paste <b>Script B</b> and hit Enter, then paste your <b>HF token</b> when prompted. The blue dashboard (bottom-right) shows upload progress.</div>
+    <div class="note">The token is sent <b>only to huggingface.co</b> (from that tab, by the official Hugging Face JS SDK) — it never touches this relay. Uploads resume if you re-paste Script B.</div>
+    <button class="btn" id="copyB">Copy Script B</button><button class="btn ghost" id="showB">Show / select it</button>
+    <textarea id="taB" readonly spellcheck="false" style="display:none"></textarea>
+  </div>
+
+  <div class="card">
+    <h2><span class="step">3</span> Watch it run <span class="pill" id="relayPill">…</span></h2>
+    <div class="grid">
+      <div class="stat"><div class="l">Crawl tab (A)</div><div class="v" id="stA">—</div><div class="s" id="stAs"></div></div>
+      <div class="stat"><div class="l">Relay queue</div><div class="v" id="stQ">—</div><div class="s" id="stQs"></div></div>
+      <div class="stat"><div class="l">HF upload (B)</div><div class="v" id="stB">—</div><div class="s" id="stBs"></div></div>
+      <div class="stat"><div class="l">Total received / uploaded</div><div class="v" id="stR">—</div><div class="s" id="stRs"></div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Fallbacks &amp; notes</h2>
+    <ul style="margin:6px 0 0; padding-left:20px; color:var(--dim); font-size:14px;">
+      <li>If the relay ever goes offline mid-crawl, <b>Tab A automatically switches to ZIP mode</b> — zips (~1.4 GB each) download to your machine. Just drag them onto the bucket page in the HF web UI and you're done; nothing is lost.</li>
+      <li>Speed is bound by <b>your</b> downlink (site → you) and uplink (you → HF). Roughly: your uplink × run-time ≈ total bytes, so ~100 MB/s up finishes in well under an hour; 20 MB/s ≈ ~40 min.</li>
+      <li>Proxied games (24 of 604) are live third-party sites — they're skipped by design and listed in the manifest inside the bucket.</li>
+      <li>Both scripts are resumable from any interruption (network, sleep, browser crash). The relay keeps up to 8 GB queued; Tab B drains it as fast as HF accepts commits.</li>
+    </ul>
+    <details>
+      <summary>Security: what this relay sees</summary>
+      <div class="note">The relay receives only (a) game file bytes and (b) progress beacons. It never receives your HF token, cookies, or anything from huggingface.co. The upload tab talks to huggingface.co directly (same-origin, the SDK's normal Xet flow); the relay merely hands it file bytes.</div>
+    </details>
+  </div>
+</div>
+
+<script>
+const RELAY = location.origin;
+const BUCKET = "smodusermc/garbsoftball-games";
+document.getElementById("bucketLabel").textContent = BUCKET;
+const cfg = `const GBM = {"relay":${JSON.stringify(RELAY)},"bucket":${JSON.stringify(BUCKET)},"maxGbGame":12,"parallel":2};`;
+let scriptA = null, scriptB = null;
+async function loadScripts() {
+  try {
+    scriptA = await (await fetch("/scripts/garb.cjs")).text();
+    scriptB = await (await fetch("/scripts/hf-up.cjs")).text();
+    document.getElementById("taA").value = cfg + "\n" + scriptA;
+    document.getElementById("taB").value = cfg + "\n" + scriptB;
+  } catch (e) { console.error(e); }
+}
+loadScripts();
+
+async function copyTo(ta) {
+  ta.select();
+  ta.setSelectionRange(0, 999999999);
+  try { await navigator.clipboard.writeText(ta.value); return true; }
+  catch { try { return document.execCommand("copy"); } catch { return false; } }
+}
+function wire(btnId, taId, label) {
+  const btn = document.getElementById(btnId), ta = document.getElementById(taId);
+  btn.onclick = async () => {
+    const ok = await copyTo(ta);
+    btn.textContent = ok ? `Copied ${label} ✓ (paste in the console)` : `Copy failed — use “Show” + Ctrl/Cmd-A + C`;
+    setTimeout(() => btn.textContent = `Copy ${label}`, 4000);
+  };
+  document.getElementById("show" + label).onclick = () => {
+    ta.style.display = "block";
+    ta.focus(); ta.select(); ta.setSelectionRange(0, 999999999);
+  };
+}
+wire("copyA", "taA", "A");
+wire("copyB", "taB", "B");
+
+const fmtB = (b) => b >= 1e9 ? (b / 1e9).toFixed(2) + " GB" : b >= 1e6 ? (b / 1e6).toFixed(1) + " MB" : (b || 0) + " B";
+const ago = (ts) => { const s = (Date.now() - ts) / 1000; if (!isFinite(s) || s < 0) return ""; return s < 90 ? Math.round(s) + "s ago" : s < 5400 ? Math.round(s / 60) + "m ago" : (s / 3600).toFixed(1) + "h ago"; };
+async function poll() {
+  try {
+    const s = await (await fetch("/stats")).json();
+    const fresh = (p) => p && p.ts && Date.now() - p.ts < 60000;
+    const a = s.progress && s.progress.garb, b = s.progress && s.progress.hf;
+    document.getElementById("relayPill").textContent = "relay online";
+    document.getElementById("relayPill").className = "pill on";
+    if (a) {
+      document.getElementById("stA").textContent = a.game ? `${a.idx ?? "?"}/${a.total ?? "?"} ${a.game}` : (a.summary || "active");
+      document.getElementById("stA").className = "v " + (a.finished ? "ok" : a.summary && a.summary.includes("FAILED") ? "bad" : "");
+      document.getElementById("stAs").textContent = `${(a.files || 0).toLocaleString()} files · ${fmtB(a.bytes || 0)} · ${a.mode || "?"} mode · ${ago(a.ts)}`;
+    } else {
+      document.getElementById("stA").textContent = a ? "finished ✓" : "waiting…";
+      document.getElementById("stAs").textContent = a ? "crawl complete" : "paste Script A in the garbsoftball.com tab";
+    }
+    document.getElementById("stQ").textContent = `${s.queue.files} files`;
+    document.getElementById("stQs").textContent = `${fmtB(s.queue.bytes)} queued · up ${Math.round(s.up / 1000)}s`;
+    if (b) {
+      document.getElementById("stB").textContent = `${(b.uploaded || 0).toLocaleString()} files`;
+      document.getElementById("stBs").textContent = `${fmtB(b.bytes || 0)} in bucket · queue ${b.queue ?? "?"} · ${ago(b.ts)}`;
+    } else {
+      document.getElementById("stB").textContent = "waiting…";
+      document.getElementById("stBs").textContent = "paste Script B in the huggingface.co tab";
+    }
+    document.getElementById("stR").textContent = fmtB(s.received.bytes);
+    document.getElementById("stRs").textContent = `${(s.received.files || 0).toLocaleString()} received · ${fmtB(s.acked.bytes)} acknowledged by HF tab`;
+  } catch {
+    document.getElementById("relayPill").textContent = "relay offline";
+    document.getElementById("relayPill").className = "pill off";
+  }
+}
+poll();
+setInterval(poll, 3000);
+</script>
+</body>
+</html>

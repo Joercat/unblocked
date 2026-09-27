@@ -1,0 +1,4245 @@
+{
+ "source": "https://garbsoftball.com/g",
+ "retrieved": "2026-09-27",
+ "site_shown_count": 604,
+ "total_parsed": 605,
+ "local_count": 580,
+ "proxy_count": 24,
+ "other_count": 1,
+ "games": [
+  {
+   "name": "Game Suggestions",
+   "thumb": "https://garbsoftball.com/png/games/forms.webp",
+   "kind": "other",
+   "other_url": "https://discord.com/channels/1400743472205398088/1412911144913604618"
+  },
+  {
+   "name": "1",
+   "thumb": "https://garbsoftball.com/png/games/1.webp",
+   "kind": "local",
+   "entry_path": "/games/1/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "1 on 1 Soccer",
+   "thumb": "https://garbsoftball.com/png/games/12.webp",
+   "kind": "local",
+   "entry_path": "/games/1on1soccer/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "10 Minutes Till Dawn",
+   "thumb": "https://garbsoftball.com/png/games/10.webp",
+   "kind": "local",
+   "entry_path": "/games/10minutestilldawn/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "1v1.lol",
+   "thumb": "https://garbsoftball.com/png/games/1v1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/1v1.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "2048",
+   "thumb": "https://garbsoftball.com/png/games/2048.webp",
+   "kind": "local",
+   "entry_path": "/games/2048/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "20 Minutes Till Dawn",
+   "thumb": "https://garbsoftball.com/png/games/20mtd.webp",
+   "kind": "local",
+   "entry_path": "/games/20minutesbog/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "30",
+   "thumb": "https://garbsoftball.com/png/games/30.webp",
+   "kind": "local",
+   "entry_path": "/games/30dolar/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "60 Seconds, Webport",
+   "thumb": "https://garbsoftball.com/png/games/60.webp",
+   "kind": "local",
+   "entry_path": "/games/60/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "-3",
+   "thumb": "https://garbsoftball.com/png/games/minus3.webp",
+   "kind": "local",
+   "entry_path": "/games/minus3/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "-b",
+   "thumb": "https://garbsoftball.com/png/games/qq.webp",
+   "kind": "local",
+   "entry_path": "/games/minusbog/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "A Difficult Game About Climbing, Webport",
+   "thumb": "https://garbsoftball.com/png/games/adgac.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/adgac.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "A Game About Feeding A Blackhole",
+   "thumb": "https://garbsoftball.com/png/games/blackhole.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/blackhole.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "A Small World Cup",
+   "thumb": "https://garbsoftball.com/png/games/worldcup.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/aswc.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Academytale, Webport",
+   "thumb": "https://garbsoftball.com/png/games/academytale.webp",
+   "kind": "local",
+   "entry_path": "/games/academytale/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Achievement Unlocked",
+   "thumb": "https://garbsoftball.com/png/games/achieve.webp",
+   "kind": "local",
+   "entry_path": "/games/achieveunlocked/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Achievement Unlocked 2",
+   "thumb": "https://garbsoftball.com/png/games/au2.webp",
+   "kind": "local",
+   "entry_path": "/games/achivement2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Achievement Unlocked 3",
+   "thumb": "https://garbsoftball.com/png/games/au3.webp",
+   "kind": "local",
+   "entry_path": "/games/achivement3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "ADOFAI",
+   "thumb": "https://garbsoftball.com/png/games/adofai.webp",
+   "kind": "local",
+   "entry_path": "/games/a-dance-of-fire-and-ice/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Adventure Capitalist",
+   "thumb": "https://garbsoftball.com/png/games/adventure.webp",
+   "kind": "local",
+   "entry_path": "/games/adventure/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Ages Of Conflict, Webport",
+   "thumb": "https://garbsoftball.com/png/games/aoc.webp",
+   "kind": "local",
+   "entry_path": "/games/agesofconflict/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Alien Hominid",
+   "thumb": "https://garbsoftball.com/png/games/alien.webp",
+   "kind": "local",
+   "entry_path": "/games/alien/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Amanda the adventurer, Webport",
+   "thumb": "https://garbsoftball.com/png/games/aman.webp",
+   "kind": "local",
+   "entry_path": "/games/amanda-the-adventurer/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Among us",
+   "thumb": "https://garbsoftball.com/png/games/among.webp",
+   "kind": "local",
+   "entry_path": "/games/sussy/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Amaze",
+   "thumb": "https://garbsoftball.com/png/games/amaze.webp",
+   "kind": "local",
+   "entry_path": "/games/amaze/index.html",
+   "wrapper": "direct"
+  },
+  {
+   "name": "Angry Birds",
+   "thumb": "https://garbsoftball.com/png/games/angry.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Angrybirds.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Angry Birds 2",
+   "thumb": "https://garbsoftball.com/png/games/ab2.webp",
+   "kind": "local",
+   "entry_path": "/games/angrybirds2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Angry Birds Epic, Webport",
+   "thumb": "https://garbsoftball.com/png/games/epic.webp",
+   "kind": "local",
+   "entry_path": "/games/Epic/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Angry Birds Online",
+   "thumb": "https://garbsoftball.com/png/games/angrybirdsonline.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/angrybirdsonline.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Animal Crossing Population: Growing!, Webport",
+   "thumb": "https://garbsoftball.com/png/games/acpg.webp",
+   "kind": "local",
+   "entry_path": "/games/slider/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Animal Crossing Wild World",
+   "thumb": "https://garbsoftball.com/png/games/acww.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/acww.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Antonblast",
+   "thumb": "https://garbsoftball.com/png/games/anton.webp",
+   "kind": "local",
+   "entry_path": "/games/antonblast/runner.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Antonblast 64, Webport",
+   "thumb": "https://garbsoftball.com/png/games/an64.webp",
+   "kind": "local",
+   "entry_path": "/games/antonblast64/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Apes Vs Helium, Webport",
+   "thumb": "https://garbsoftball.com/png/games/avh.webp",
+   "kind": "local",
+   "entry_path": "/games/AVHPort/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Apotheon, Webport",
+   "thumb": "https://garbsoftball.com/png/games/apotheon.webp",
+   "kind": "local",
+   "entry_path": "/games/Apotheon/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Arthur's Nightmare, Webport",
+   "thumb": "https://garbsoftball.com/png/games/arthursnight.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/arthur.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Bad Icecream 1",
+   "thumb": "https://garbsoftball.com/png/games/badice1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/badice1.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bad Icecream 2",
+   "thumb": "https://garbsoftball.com/png/games/badice2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/badice2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bad Icecream 3",
+   "thumb": "https://garbsoftball.com/png/games/badice3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/badice3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bad Parenting, Webport",
+   "thumb": "https://garbsoftball.com/png/games/bad.webp",
+   "kind": "local",
+   "entry_path": "/games/bad/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Bad Piggies",
+   "thumb": "https://garbsoftball.com/png/games/badp.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/piggies.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bad time Simulator",
+   "thumb": "https://garbsoftball.com/png/games/badt.webp",
+   "kind": "local",
+   "entry_path": "/games/bts/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Balatro, Webport",
+   "thumb": "https://garbsoftball.com/png/games/bal.webp",
+   "kind": "local",
+   "entry_path": "/games/balatro/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Balatro Modded, Webport",
+   "thumb": "https://garbsoftball.com/png/games/balatromodded.webp",
+   "kind": "local",
+   "entry_path": "/games/balatromodded/",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Baldi's Basics",
+   "thumb": "https://garbsoftball.com/png/games/baldi.webp",
+   "kind": "local",
+   "entry_path": "/games/baldis-basics/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Baldi's Basics Birthday Bash, Webport",
+   "thumb": "https://garbsoftball.com/png/games/bday.webp",
+   "kind": "local",
+   "entry_path": "/games/bday/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Baldi's Basics Classic Remastered, Webport",
+   "thumb": "https://garbsoftball.com/png/games/baldire.webp",
+   "kind": "local",
+   "entry_path": "/games/BBCR/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Baldi's Basics Plus, Webport",
+   "thumb": "https://garbsoftball.com/png/games/baldiplus.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/bbp.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Baldi's Fun New School Plus Ultimate Edition",
+   "thumb": "https://garbsoftball.com/png/games/bfs.webp",
+   "kind": "local",
+   "entry_path": "/games/bfs/",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Baldi's Basics Ultra Decompile",
+   "thumb": "https://garbsoftball.com/png/games/bbudc.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/baldidecomp.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Baldurs Gate 2, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gate2.webp",
+   "kind": "local",
+   "entry_path": "/games/baldurs-gate-2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Banjo Kazooie",
+   "thumb": "https://garbsoftball.com/png/games/banjokazooie.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/banjokazooie.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bart Bash",
+   "thumb": "https://garbsoftball.com/png/games/bartbash.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/bartbash.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bart Blast",
+   "thumb": "https://garbsoftball.com/png/games/bart.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/bart.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Baseball Bros",
+   "thumb": "https://garbsoftball.com/png/games/basebros.webp",
+   "kind": "local",
+   "entry_path": "/games/baseballbros/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Basket Bros",
+   "thumb": "https://garbsoftball.com/png/games/basketbro.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/basket.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Basket Random",
+   "thumb": "https://garbsoftball.com/png/games/basket.webp",
+   "kind": "local",
+   "entry_path": "/games/basket-random/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Basketball stars",
+   "thumb": "https://garbsoftball.com/png/games/basketstars.webp",
+   "kind": "local",
+   "entry_path": "/games/basketballstars/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Beatblock, Webport",
+   "thumb": "https://garbsoftball.com/png/games/beatblock.webp",
+   "kind": "local",
+   "entry_path": "/games/beatblock/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bee Movie Game",
+   "thumb": "https://garbsoftball.com/png/games/bee.webp",
+   "kind": "local",
+   "entry_path": "/games/beemovie/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bendy And The Ink Machine, Webport",
+   "thumb": "https://garbsoftball.com/png/games/bendy.webp",
+   "kind": "local",
+   "entry_path": "/games/bendy/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bergentruck, Webport",
+   "thumb": "https://garbsoftball.com/png/games/ber.webp",
+   "kind": "local",
+   "entry_path": "/games/bergentruck/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bfdia 5b",
+   "thumb": "https://garbsoftball.com/png/games/bfdia5b.webp",
+   "kind": "local",
+   "entry_path": "/games/bfdia 5b/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Big Tower Tiny Square",
+   "thumb": "https://garbsoftball.com/png/games/btt.webp",
+   "kind": "local",
+   "entry_path": "/games/btts/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bitlife",
+   "thumb": "https://garbsoftball.com/png/games/bit.webp",
+   "kind": "local",
+   "entry_path": "/games/bitlife/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Black Hole Fishing",
+   "thumb": "https://garbsoftball.com/png/games/bhf.webp",
+   "kind": "local",
+   "entry_path": "/games/bhf/single.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Black Jack",
+   "thumb": "https://garbsoftball.com/png/games/blackjack.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/BlackJack.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Block Blast",
+   "thumb": "https://garbsoftball.com/png/games/unnamed.webp",
+   "kind": "local",
+   "entry_path": "/games/block-blast/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloodmoney, Webport",
+   "thumb": "https://garbsoftball.com/png/games/blood.webp",
+   "kind": "local",
+   "entry_path": "/games/bloodmoney/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloon TD1",
+   "thumb": "https://garbsoftball.com/png/games/bloons.webp",
+   "kind": "local",
+   "entry_path": "/games/bloonstd/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloon TD2",
+   "thumb": "https://garbsoftball.com/png/games/blo2.webp",
+   "kind": "local",
+   "entry_path": "/games/bloonstd2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloon TD3",
+   "thumb": "https://garbsoftball.com/png/games/blo3.webp",
+   "kind": "local",
+   "entry_path": "/games/btd3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloon TD4",
+   "thumb": "https://garbsoftball.com/png/games/btd4.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/bloonstd4.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloons TD5",
+   "thumb": "https://garbsoftball.com/png/games/blo5.webp",
+   "kind": "local",
+   "entry_path": "/games/btd5/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloons TD6",
+   "thumb": "https://garbsoftball.com/png/games/blo6.webp",
+   "kind": "local",
+   "entry_path": "/games/btd6/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bloons TD Battles 2",
+   "thumb": "https://garbsoftball.com/png/games/bloonstdb2.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/ninja-kiwi/1403/bloons-td-battles-2.html",
+   "entry_path": null
+  },
+  {
+   "name": "Bloxors",
+   "thumb": "https://garbsoftball.com/png/games/bloxorz.webp",
+   "kind": "local",
+   "entry_path": "/games/bloxors/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bombmerman",
+   "thumb": "https://garbsoftball.com/png/games/bomberman.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/bomberman.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bombmerman 2",
+   "thumb": "https://garbsoftball.com/png/games/bomberman2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/bomberman2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Bonk.io",
+   "thumb": "https://garbsoftball.com/png/games/bonkio.webp",
+   "kind": "proxy",
+   "proxy_url": "https://bonk.io/",
+   "entry_path": null
+  },
+  {
+   "name": "Boxing Random",
+   "thumb": "https://garbsoftball.com/png/games/boxing.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/boxing.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Brotato Paws And Claws, Webport",
+   "thumb": "https://garbsoftball.com/png/games/paws.webp",
+   "kind": "local",
+   "entry_path": "/games/brotato2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Buckshot Roulette, Webport",
+   "thumb": "https://garbsoftball.com/png/games/buck.webp",
+   "kind": "local",
+   "entry_path": "/games/buckshot/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Burrito Bison",
+   "thumb": "https://garbsoftball.com/png/games/burrito.webp",
+   "kind": "local",
+   "entry_path": "/games/burrito/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Burrito Bison Revenge",
+   "thumb": "https://garbsoftball.com/png/games/bbe.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/bbe.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Call of Duty Mobile",
+   "thumb": "https://garbsoftball.com/png/games/codmobile.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/a/10008/b.html",
+   "entry_path": null
+  },
+  {
+   "name": "Call of Duty 4 Modern Warfare",
+   "thumb": "https://garbsoftball.com/png/games/cod4mw.webp",
+   "kind": "local",
+   "entry_path": "/games/cod4mw/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Capuchin, Webport",
+   "thumb": "https://garbsoftball.com/png/games/capuchin.webp",
+   "kind": "local",
+   "entry_path": "/games/CapuchinBog/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "CaseOhs Basics in Eating and Fast Food, Webport",
+   "thumb": "https://garbsoftball.com/png/games/caseoh.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/caseoh.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Cat Goes Fishing",
+   "thumb": "https://garbsoftball.com/png/games/catgoesfishing.webp",
+   "kind": "local",
+   "entry_path": "/games/catfish/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Celeste, Webport",
+   "thumb": "https://garbsoftball.com/png/games/celeste.webp",
+   "kind": "local",
+   "entry_path": "/games/celeste/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Celeste 3D, Webport",
+   "thumb": "https://garbsoftball.com/png/games/celeste3d.webp",
+   "kind": "local",
+   "entry_path": "/games/celeste3d/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Celeste 64, Webport",
+   "thumb": "https://garbsoftball.com/png/games/celeste64.webp",
+   "kind": "local",
+   "entry_path": "/games/celeste64/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cheese Rolling, Webport",
+   "thumb": "https://garbsoftball.com/png/games/cheeser.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/cheese.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Chess.com",
+   "thumb": "https://garbsoftball.com/png/games/chess.webp",
+   "kind": "proxy",
+   "proxy_url": "https://chess.com",
+   "entry_path": null
+  },
+  {
+   "name": "Christmas Massacre, Webport",
+   "thumb": "https://garbsoftball.com/png/games/christmas.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/christmas.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Class Of 09, Webport",
+   "thumb": "https://garbsoftball.com/png/games/class.webp",
+   "kind": "local",
+   "entry_path": "/games/C09/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Class Of 09 Flipside, Webport",
+   "thumb": "https://garbsoftball.com/png/games/flip.webp",
+   "kind": "local",
+   "entry_path": "/games/C09FS/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Class Of 09 Re-Up, Webport",
+   "thumb": "https://garbsoftball.com/png/games/reup.webp",
+   "kind": "local",
+   "entry_path": "/games/C09RU/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Clover Pit",
+   "thumb": "https://garbsoftball.com/png/games/clover.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/cloverpit.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cluster Truck, Webport",
+   "thumb": "https://garbsoftball.com/png/games/cluster.webp",
+   "kind": "local",
+   "entry_path": "/games/clustertruck/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Coffee Talk",
+   "thumb": "https://garbsoftball.com/png/games/coffee.webp",
+   "kind": "local",
+   "entry_path": "/games/coffee/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cookie Clicker",
+   "thumb": "https://garbsoftball.com/png/games/cookie.webp",
+   "kind": "local",
+   "entry_path": "/games/cookie-clicker/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cookie Run Kingdom",
+   "thumb": "https://garbsoftball.com/png/games/crk.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/a/10019/b.html",
+   "entry_path": null
+  },
+  {
+   "name": "Cooking Mama",
+   "thumb": "https://garbsoftball.com/png/games/cookingmama.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/cookingmama.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cooking Mama 2",
+   "thumb": "https://garbsoftball.com/png/games/cookingmama2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/cookingmama2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cooking Mama 3",
+   "thumb": "https://garbsoftball.com/png/games/cookingmama3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/cookingmama3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Counter Stike 0.8",
+   "thumb": "https://garbsoftball.com/png/games/cs08.webp",
+   "kind": "local",
+   "entry_path": "/games/psp/cs/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Crash Bandicoot 1",
+   "thumb": "https://garbsoftball.com/png/games/crash1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/crash1.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Crash Bandicoot 2",
+   "thumb": "https://garbsoftball.com/png/games/crash2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/crash2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Crash Bandicoot 3",
+   "thumb": "https://garbsoftball.com/png/games/crash3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/crash3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Crazy Balls",
+   "thumb": "https://garbsoftball.com/png/games/balls.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/balls.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Crashout Crew, Webport",
+   "thumb": "https://garbsoftball.com/png/games/crash.webp",
+   "kind": "local",
+   "entry_path": "/games/crashout/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "CrazyCattle3D, Webport",
+   "thumb": "https://garbsoftball.com/png/games/crazyca.webp",
+   "kind": "local",
+   "entry_path": "/games/cattle3d/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Crossy Roads",
+   "thumb": "https://garbsoftball.com/png/games/crossy.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/crossy.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cruelty Squad, Webport",
+   "thumb": "https://garbsoftball.com/png/games/cruelty.webp",
+   "kind": "local",
+   "entry_path": "/games/cruelty/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Csgo Clicker",
+   "thumb": "https://garbsoftball.com/png/games/csbox.webp",
+   "kind": "local",
+   "entry_path": "/games/csgo-clicker/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cuphead, Webport",
+   "thumb": "https://garbsoftball.com/png/games/cup.webp",
+   "kind": "local",
+   "entry_path": "/games/Cuphead/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Customer Support, Webport",
+   "thumb": "https://garbsoftball.com/png/games/cus.webp",
+   "kind": "local",
+   "entry_path": "/games/CustomerSupport/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Cut The Rope",
+   "thumb": "https://garbsoftball.com/png/games/cut1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/cut.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cut The Rope : Time Travel",
+   "thumb": "https://garbsoftball.com/png/games/time.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/time.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Cut The Rope Holiday",
+   "thumb": "https://garbsoftball.com/png/games/cut2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hol.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dadish",
+   "thumb": "https://garbsoftball.com/png/games/dadish.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/dadish.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dadish 2",
+   "thumb": "https://garbsoftball.com/png/games/dadish2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/dadish2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dadish 3",
+   "thumb": "https://garbsoftball.com/png/games/dadish3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/dadish3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dadish 3d",
+   "thumb": "https://garbsoftball.com/png/games/dadish3d.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/dadish3d.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dadish Daily",
+   "thumb": "https://garbsoftball.com/png/games/daily.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/daily.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Danganronpa",
+   "thumb": "https://garbsoftball.com/png/games/dan.webp",
+   "kind": "local",
+   "entry_path": "/games/danganronpa/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "DEAD PLATE, Webport",
+   "thumb": "https://garbsoftball.com/png/games/deadp.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/dead.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dead Tapes",
+   "thumb": "https://garbsoftball.com/png/games/deadta.webp",
+   "kind": "local",
+   "entry_path": "/games/deadtapesfinal/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Deadseat, Webport",
+   "thumb": "https://garbsoftball.com/png/games/deadseat.webp",
+   "kind": "local",
+   "entry_path": "/games/deadseat/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Death Run 3D",
+   "thumb": "https://garbsoftball.com/png/games/death.webp",
+   "kind": "local",
+   "entry_path": "/games/death-run-3d/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Deltarune, Webport",
+   "thumb": "https://garbsoftball.com/png/games/deltarune.webp",
+   "kind": "local",
+   "entry_path": "/games/deltarune/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Deltatraveler, Webport",
+   "thumb": "https://garbsoftball.com/png/games/deltatr.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/deltatr.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dewdrop Dynasty, Webport",
+   "thumb": "https://garbsoftball.com/png/games/dewrop.webp",
+   "kind": "local",
+   "entry_path": "/games/dewdrop/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Diablo",
+   "thumb": "https://garbsoftball.com/png/games/diablo.webp",
+   "kind": "local",
+   "entry_path": "/games/diablo/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dice A Million, Webport",
+   "thumb": "https://garbsoftball.com/png/games/diceamillion.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/diceamillion.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dinosaur",
+   "thumb": "https://garbsoftball.com/png/games/dino.webp",
+   "kind": "local",
+   "entry_path": "/games/dinosaur/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Do Not Take This Cat Home, Webport",
+   "thumb": "https://garbsoftball.com/png/games/dont.webp",
+   "kind": "local",
+   "entry_path": "/games/donottakethiscathome/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Doge Miner",
+   "thumb": "https://garbsoftball.com/png/games/doge.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Doge Miner.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Doge Miner 2",
+   "thumb": "https://garbsoftball.com/png/games/dogeminer2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/dm2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dome Keeper, Webport",
+   "thumb": "https://garbsoftball.com/png/games/domekeeper.webp",
+   "kind": "local",
+   "entry_path": "/games/domekeeper/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dont Bite Me Bro!, Webport",
+   "thumb": "https://garbsoftball.com/png/games/dbmb.webp",
+   "kind": "local",
+   "entry_path": "/games/dbmb/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Doodle Jump",
+   "thumb": "https://garbsoftball.com/png/games/doodle.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Doodle Jump.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Doom",
+   "thumb": "https://garbsoftball.com/png/games/doom.webp",
+   "kind": "local",
+   "entry_path": "/games/doom/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Doom 2",
+   "thumb": "https://garbsoftball.com/png/games/doom2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/doom2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Doom 3",
+   "thumb": "https://garbsoftball.com/png/games/doom3.webp",
+   "kind": "local",
+   "entry_path": "/games/doom3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Doom 64",
+   "thumb": "https://garbsoftball.com/png/games/doom64.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/doom64.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dr. Mario",
+   "thumb": "https://garbsoftball.com/png/games/drmario.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/drmario.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dreadhead Parkour",
+   "thumb": "https://garbsoftball.com/png/games/dread.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/dread.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Drift Boss",
+   "thumb": "https://garbsoftball.com/png/games/driftboss.webp",
+   "kind": "local",
+   "entry_path": "/games/drift-boss/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Drift Hunter",
+   "thumb": "https://garbsoftball.com/png/games/hunt.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/drift.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Drive Mad",
+   "thumb": "https://garbsoftball.com/png/games/drive.webp",
+   "kind": "local",
+   "entry_path": "/games/drive-mad/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 1",
+   "thumb": "https://garbsoftball.com/png/games/duck1.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklife1/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 2",
+   "thumb": "https://garbsoftball.com/png/games/duck2.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklife2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 3",
+   "thumb": "https://garbsoftball.com/png/games/duck3.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklife3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 4",
+   "thumb": "https://garbsoftball.com/png/games/duck4.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklife4/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 5",
+   "thumb": "https://garbsoftball.com/png/games/duck5.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklife5/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 6",
+   "thumb": "https://garbsoftball.com/png/games/ducklife6.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklife6/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 7",
+   "thumb": "https://garbsoftball.com/png/games/ducklife7.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklife7/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Duck Life 8, Webport",
+   "thumb": "https://garbsoftball.com/png/games/ducklifeadc.webp",
+   "kind": "local",
+   "entry_path": "/games/ducklifeadv/",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Dumb Ways To Die",
+   "thumb": "https://garbsoftball.com/png/games/dumb.webp",
+   "kind": "local",
+   "entry_path": "/games/dumb/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "EA SPORTS FC MOBILE 24 SOCCER",
+   "thumb": "https://garbsoftball.com/png/games/easportsmobile.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/electronic-arts/1353/ea-sports-fc-mobile-24-soccer.html",
+   "entry_path": null
+  },
+  {
+   "name": "Eggy Car",
+   "thumb": "https://garbsoftball.com/png/games/eggycar.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/eggycar.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Emily Is Away",
+   "thumb": "https://garbsoftball.com/png/games/emily.webp",
+   "kind": "local",
+   "entry_path": "/games/emily/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Endacopia, Webport",
+   "thumb": "https://garbsoftball.com/png/games/endacopia.webp",
+   "kind": "local",
+   "entry_path": "/games/endacopia/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Endoparasitic",
+   "thumb": "https://garbsoftball.com/png/games/endo1.webp",
+   "kind": "local",
+   "entry_path": "/games/endoparasitic/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Endoparasitic 2",
+   "thumb": "https://garbsoftball.com/png/games/endo2.webp",
+   "kind": "local",
+   "entry_path": "/games/endoparasitic2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Escape Road",
+   "thumb": "https://garbsoftball.com/png/games/road.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/escape.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Escape Road 2",
+   "thumb": "https://garbsoftball.com/png/games/escape2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/road2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Escape Road 3",
+   "thumb": "https://garbsoftball.com/png/games/escape3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/escape3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Escape Road City 2",
+   "thumb": "https://garbsoftball.com/png/games/roadcity.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/roadcity2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Falling Fred",
+   "thumb": "https://garbsoftball.com/png/games/super-falling-fred.webp",
+   "kind": "local",
+   "entry_path": "/games/falling/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fallout",
+   "thumb": "https://garbsoftball.com/png/games/fallout.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/falloutt.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fallout 2, Webport",
+   "thumb": "https://garbsoftball.com/png/games/fallout2.webp",
+   "kind": "local",
+   "entry_path": "/games/fo2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fancy Pants Adventures",
+   "thumb": "https://garbsoftball.com/png/games/fpa1.webp",
+   "kind": "local",
+   "entry_path": "/games/fancypantsadventures/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fancy Pants Adventures 2",
+   "thumb": "https://garbsoftball.com/png/games/fancy2.webp",
+   "kind": "local",
+   "entry_path": "/games/fancypantsadventures2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fancy Pants Adventures 3",
+   "thumb": "https://garbsoftball.com/png/games/fpa3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fpa3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fears To Fathom: Home Alone, Webport",
+   "thumb": "https://garbsoftball.com/png/games/fear.webp",
+   "kind": "local",
+   "entry_path": "/games/ftf/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FEZ, Webport",
+   "thumb": "https://garbsoftball.com/png/games/fez.webp",
+   "kind": "local",
+   "entry_path": "/games/FEZ/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Final Fantasy VII",
+   "thumb": "https://garbsoftball.com/png/games/ffvii.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/ffvii.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fireboy and Watergirl",
+   "thumb": "https://garbsoftball.com/png/games/fire1.webp",
+   "kind": "local",
+   "entry_path": "/games/watergirl-1/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fireboy and Watergirl 2",
+   "thumb": "https://garbsoftball.com/png/games/fire2.webp",
+   "kind": "local",
+   "entry_path": "/games/watergirl-2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fireboy and Watergirl 3",
+   "thumb": "https://garbsoftball.com/png/games/fire3.webp",
+   "kind": "local",
+   "entry_path": "/games/watergirl-3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fireboy and Watergirl 4",
+   "thumb": "https://garbsoftball.com/png/games/fire4.webp",
+   "kind": "local",
+   "entry_path": "/games/watergirl-4/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FISH, Webport",
+   "thumb": "https://garbsoftball.com/png/games/fish.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fish.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Fister",
+   "thumb": "https://garbsoftball.com/png/games/fister.webp",
+   "kind": "proxy",
+   "proxy_url": "https://fister.fun",
+   "entry_path": null
+  },
+  {
+   "name": "Five Nights At Candys",
+   "thumb": "https://garbsoftball.com/png/games/fnac.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fnac.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Five Nights At Candys 2",
+   "thumb": "https://garbsoftball.com/png/games/fnac2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fnac2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Five Nights At Epsteins, Webport",
+   "thumb": "https://garbsoftball.com/png/games/fnae.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fnae.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Five Nights At Frickbears 3, Webport",
+   "thumb": "https://garbsoftball.com/png/games/fnafb3.webp",
+   "kind": "local",
+   "entry_path": "/games/fb3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Five Nights At Last Breath, Webport",
+   "thumb": "https://garbsoftball.com/png/games/breath.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/breath.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Flappy bird",
+   "thumb": "https://garbsoftball.com/png/games/flapp.webp",
+   "kind": "local",
+   "entry_path": "/games/flappybird/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Flying Gorilla, Webport",
+   "thumb": "https://garbsoftball.com/png/games/flying.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/gorilla.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF",
+   "thumb": "https://garbsoftball.com/png/games/splash.webp",
+   "kind": "local",
+   "entry_path": "/games/fnaf/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF Sisters Location",
+   "thumb": "https://garbsoftball.com/png/games/sister.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fnafs.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF Ultimate Custom Night",
+   "thumb": "https://garbsoftball.com/png/games/custom.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fnafu.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF World",
+   "thumb": "https://garbsoftball.com/png/games/fnafworld.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fnafw.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF World Refreshed",
+   "thumb": "https://garbsoftball.com/png/games/fne.webp",
+   "kind": "local",
+   "entry_path": "/games/fnw/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF2",
+   "thumb": "https://garbsoftball.com/png/games/fnaf2.webp",
+   "kind": "local",
+   "entry_path": "/games/2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF3",
+   "thumb": "https://garbsoftball.com/png/games/3f.webp",
+   "kind": "local",
+   "entry_path": "/games/3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF4",
+   "thumb": "https://garbsoftball.com/png/games/fnaf4.webp",
+   "kind": "local",
+   "entry_path": "/games/fnaf4/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAF4 Halloween",
+   "thumb": "https://garbsoftball.com/png/games/hollowween.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/ween.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNAW",
+   "thumb": "https://garbsoftball.com/png/games/fnaw.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/fnaw.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "FNF, Friday Night Funkin",
+   "thumb": "https://garbsoftball.com/png/games/fnf.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/fnfog.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Aethos",
+   "thumb": "https://garbsoftball.com/png/games/aethos.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/aethos.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Atrocity",
+   "thumb": "https://garbsoftball.com/png/games/atrocity.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/atrocity.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin BFDI 26",
+   "thumb": "https://garbsoftball.com/png/games/bfdi26.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/bfdi26.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Bop City",
+   "thumb": "https://garbsoftball.com/png/games/bopcity.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/bopcity.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin For A BFDI",
+   "thumb": "https://garbsoftball.com/png/games/ffabfdi.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/ffabfdi.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Garcello",
+   "thumb": "https://garbsoftball.com/png/games/garcello.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/garcello.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Get Digging",
+   "thumb": "https://garbsoftball.com/png/games/getdigging.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/getdigging.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Golden Apple",
+   "thumb": "https://garbsoftball.com/png/games/goldenapple.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/goldenapple.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Hex",
+   "thumb": "https://garbsoftball.com/png/games/hex.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/hex.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Horkglorpgloop",
+   "thumb": "https://garbsoftball.com/png/games/infinite.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/horkglorpgloop.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Infinite Irida",
+   "thumb": "https://garbsoftball.com/png/games/hork.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/infiniteiridra.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Kapi",
+   "thumb": "https://garbsoftball.com/png/games/kapi.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/kapi.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Mario Madness",
+   "thumb": "https://garbsoftball.com/png/games/mario.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/mariomadness.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Hatsune Miku",
+   "thumb": "https://garbsoftball.com/png/games/miku.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/miku.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Nonsense",
+   "thumb": "https://garbsoftball.com/png/games/nonsense.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/nonsense.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Rewrite",
+   "thumb": "https://garbsoftball.com/png/games/rewrite.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/rewrite.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Rewrite 2",
+   "thumb": "https://garbsoftball.com/png/games/rewrite2.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/rewrite2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Ron",
+   "thumb": "https://garbsoftball.com/png/games/ron.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/ron.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Shaggy",
+   "thumb": "https://garbsoftball.com/png/games/shaggy.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/shaggy.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Shaggy X Matt",
+   "thumb": "https://garbsoftball.com/png/games/sxm.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/shaggyxmatt.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Shucks V2",
+   "thumb": "https://garbsoftball.com/png/games/shucksv2.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/shucksv2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Vs. Tord",
+   "thumb": "https://garbsoftball.com/png/games/tord.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/tord.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Tricky",
+   "thumb": "https://garbsoftball.com/png/games/tricky.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/tricky.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin TWIDDLEFINGER",
+   "thumb": "https://garbsoftball.com/png/games/twiddle.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/TWIDDLEFINGER.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Whitty",
+   "thumb": "https://garbsoftball.com/png/games/whitty.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/whitty.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Friday Night Funkin Zardy",
+   "thumb": "https://garbsoftball.com/png/games/zardy.webp",
+   "kind": "local",
+   "entry_path": "/games/fnf/zardy.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fortnite",
+   "thumb": "https://garbsoftball.com/png/games/fortnite.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite",
+   "entry_path": null
+  },
+  {
+   "name": "Football Bros",
+   "thumb": "https://garbsoftball.com/png/games/footbros.webp",
+   "kind": "local",
+   "entry_path": "/games/footballbros/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fruit Ninja",
+   "thumb": "https://garbsoftball.com/png/games/ninja.webp",
+   "kind": "local",
+   "entry_path": "/games/fruitninja/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Fused240",
+   "thumb": "https://garbsoftball.com/png/games/fused240.webp",
+   "kind": "local",
+   "entry_path": "/games/fused240/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gabriel's Awesome Schoolhouse, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gabriel.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/gash.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Gacha Life",
+   "thumb": "https://garbsoftball.com/png/games/gachalife.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/life.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gacha Verse",
+   "thumb": "https://garbsoftball.com/png/games/gachaverse.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/verse.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gamble With Your Friends, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gamble.webp",
+   "kind": "local",
+   "entry_path": "/games/gamble/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Gang Beasts, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gangbeats.webp",
+   "kind": "local",
+   "entry_path": "/games/gangbeasts/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Genshin Impact",
+   "thumb": "https://garbsoftball.com/png/games/genshin.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/cognosphere-pte-ltd-/1773/genshin-impact.html",
+   "entry_path": null
+  },
+  {
+   "name": "Getaway Shootout",
+   "thumb": "https://garbsoftball.com/png/games/getaway.webp",
+   "kind": "local",
+   "entry_path": "/games/getaway-shootout/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Geoguessr",
+   "thumb": "https://garbsoftball.com/png/games/geoguess.webp",
+   "kind": "proxy",
+   "proxy_url": "https://www.geoguessr.com/",
+   "entry_path": null
+  },
+  {
+   "name": "Geometry Dash, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gd.webp",
+   "kind": "local",
+   "entry_path": "/games/geo/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Getting Over It, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gettin.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/goi.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gladihoppers",
+   "thumb": "https://garbsoftball.com/png/games/glad.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Gladihoppers.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Go to bed, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gotobed.webp",
+   "kind": "local",
+   "entry_path": "/games/GTB/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Goober Dash",
+   "thumb": "https://garbsoftball.com/png/games/goober.webp",
+   "kind": "proxy",
+   "proxy_url": "https://gooberdash.winterpixel.io/",
+   "entry_path": null
+  },
+  {
+   "name": "Google Baseball",
+   "thumb": "https://garbsoftball.com/png/games/google.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/gbase.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gorilla Tag, Webport",
+   "thumb": "https://garbsoftball.com/png/games/gtag.webp",
+   "kind": "local",
+   "entry_path": "/games/gtag/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Granny",
+   "thumb": "https://garbsoftball.com/png/games/granny.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/granny.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Granny 2",
+   "thumb": "https://garbsoftball.com/png/games/gran2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Granny 2.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Granny 3",
+   "thumb": "https://garbsoftball.com/png/games/gran3.webp",
+   "kind": "local",
+   "entry_path": "/games/granny3/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Gravity run",
+   "thumb": "https://garbsoftball.com/png/games/gravity.webp",
+   "kind": "local",
+   "entry_path": "/games/gravity-run/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Greybox",
+   "thumb": "https://garbsoftball.com/png/games/grey.webp",
+   "kind": "local",
+   "entry_path": "/games/graybox/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "GTA I",
+   "thumb": "https://garbsoftball.com/png/games/gta.webp",
+   "kind": "local",
+   "entry_path": "/games/gta/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "GTA II",
+   "thumb": "https://garbsoftball.com/png/games/gta2.webp",
+   "kind": "local",
+   "entry_path": "/games/gta2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "GTA III",
+   "thumb": "https://garbsoftball.com/png/games/gta3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/gta3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "GTA San Andreas",
+   "thumb": "https://garbsoftball.com/png/games/gtasan.webp",
+   "kind": "local",
+   "entry_path": "/games/gtasan/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "GTA Vice City, Webport",
+   "thumb": "https://garbsoftball.com/png/games/vice.webp",
+   "kind": "local",
+   "entry_path": "/games/vicecity/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gun Mayhem",
+   "thumb": "https://garbsoftball.com/png/games/gun.webp",
+   "kind": "local",
+   "entry_path": "/games/funmayhem/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gun Mayhem 2",
+   "thumb": "https://garbsoftball.com/png/games/gun2.webp",
+   "kind": "local",
+   "entry_path": "/games/funmayhem2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gun Mayhem Redux",
+   "thumb": "https://garbsoftball.com/png/games/gun3.webp",
+   "kind": "local",
+   "entry_path": "/games/funmayhemredux/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Gunspin",
+   "thumb": "https://garbsoftball.com/png/games/guns.webp",
+   "kind": "local",
+   "entry_path": "/games/gunspin/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Half life",
+   "thumb": "https://garbsoftball.com/png/games/halflife.webp",
+   "kind": "local",
+   "entry_path": "/games/hl-main/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Half life: Opposing Force",
+   "thumb": "https://garbsoftball.com/png/games/hlof.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hlof.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Happy Wheels",
+   "thumb": "https://garbsoftball.com/png/games/happy.webp",
+   "kind": "local",
+   "entry_path": "/games/happywheels/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Helltaker, Webport",
+   "thumb": "https://garbsoftball.com/png/games/helltaker.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/helltaker.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Hobo 1",
+   "thumb": "https://garbsoftball.com/png/games/hobo.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hobo1.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Hobo 2",
+   "thumb": "https://garbsoftball.com/png/games/hobo2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hobo2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Hobo 3",
+   "thumb": "https://garbsoftball.com/png/games/hobo3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hobo3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Hobo 4",
+   "thumb": "https://garbsoftball.com/png/games/hobo4.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hobo4.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Hobo 5",
+   "thumb": "https://garbsoftball.com/png/games/hobo5.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hobo5.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Hobo 6",
+   "thumb": "https://garbsoftball.com/png/games/hobo6.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hobo6.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Hobo 7",
+   "thumb": "https://garbsoftball.com/png/games/hobo7.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/hobo7.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Hollow Knight, Webport",
+   "thumb": "https://garbsoftball.com/png/games/hollow.webp",
+   "kind": "local",
+   "entry_path": "/games/newesthk/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Honkai: Star Rail",
+   "thumb": "https://garbsoftball.com/png/games/honkai.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/cognosphere-pte-ltd/1591/honkai-star-rail.html",
+   "entry_path": null
+  },
+  {
+   "name": "Hotline Miami, Webport",
+   "thumb": "https://garbsoftball.com/png/games/hot.webp",
+   "kind": "local",
+   "entry_path": "/games/whores/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "House Of Hazards",
+   "thumb": "https://garbsoftball.com/png/games/house.webp",
+   "kind": "local",
+   "entry_path": "/games/houseofhazards/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "How To Fish, Webport",
+   "thumb": "https://garbsoftball.com/png/games/htf.webp",
+   "kind": "local",
+   "entry_path": "/games/htf/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "HUMAN EXPENDITURE PROGRAM, Webport",
+   "thumb": "https://garbsoftball.com/png/games/human.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/human.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Ice Baby Quest 2",
+   "thumb": "https://garbsoftball.com/png/games/icebaby2.webp",
+   "kind": "local",
+   "entry_path": "/games/icebaby2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Idle Breakout",
+   "thumb": "https://garbsoftball.com/png/games/idle.webp",
+   "kind": "local",
+   "entry_path": "/games/idle-breakout/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Into Space 1",
+   "thumb": "https://garbsoftball.com/png/games/intospace1.webp",
+   "kind": "local",
+   "entry_path": "/games/is1/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Into Space 2",
+   "thumb": "https://garbsoftball.com/png/games/intospace2.webp",
+   "kind": "local",
+   "entry_path": "/games/is2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Into Space 3",
+   "thumb": "https://garbsoftball.com/png/games/intospace3.webp",
+   "kind": "local",
+   "entry_path": "/games/is3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Iron Lung, Webport",
+   "thumb": "https://garbsoftball.com/png/games/iroonlung.webp",
+   "kind": "local",
+   "entry_path": "/games/ironlung/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "I Wanna Be The Guy, Webport",
+   "thumb": "https://garbsoftball.com/png/games/iwbtg.webp",
+   "kind": "local",
+   "entry_path": "/games/iwbtg/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Jeffrey Epstein Basics In Education And Kidnapping, Webport",
+   "thumb": "https://garbsoftball.com/png/games/jeb.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/jeb.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Jeffys Basics, Webport",
+   "thumb": "https://garbsoftball.com/png/games/jeffys.webp",
+   "kind": "local",
+   "entry_path": "/games/JeffysBasicsBog/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Jelly Drift",
+   "thumb": "https://garbsoftball.com/png/games/jelly.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/jelly.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Jetpack Joyride",
+   "thumb": "https://garbsoftball.com/png/games/jet.webp",
+   "kind": "local",
+   "entry_path": "/games/jetpackjoyride/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Jumbo Mario",
+   "thumb": "https://garbsoftball.com/png/games/jumbo.webp",
+   "kind": "local",
+   "entry_path": "/games/JumboMario/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Karlson, Webport",
+   "thumb": "https://garbsoftball.com/png/games/karlson.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Karlson.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Karlson2D, Webport",
+   "thumb": "https://garbsoftball.com/png/games/karlson2d.webp",
+   "kind": "local",
+   "entry_path": "/games/karlson2d/truffledkarlson2d/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Kick The Buddy, Webport",
+   "thumb": "https://garbsoftball.com/png/games/ktb.webp",
+   "kind": "local",
+   "entry_path": "/games/kickthebuddy/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Kindergarten 1, Webport",
+   "thumb": "https://garbsoftball.com/png/games/kind1.webp",
+   "kind": "local",
+   "entry_path": "/games/kindergarten/1/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Kindergarten 2, Webport",
+   "thumb": "https://garbsoftball.com/png/games/kind2.webp",
+   "kind": "local",
+   "entry_path": "/games/kindergarten/2/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Kindergarten 3, Webport",
+   "thumb": "https://garbsoftball.com/png/games/kind3.webp",
+   "kind": "local",
+   "entry_path": "/games/Kindergarten3/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Kinito Pet, Webport",
+   "thumb": "https://garbsoftball.com/png/games/kinto.webp",
+   "kind": "local",
+   "entry_path": "/games/kinitopet/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Kirby Soft And Wet, Webport",
+   "thumb": "https://garbsoftball.com/png/games/kirbysoftandwet.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/kirbysoftandwet.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Klifur",
+   "thumb": "https://garbsoftball.com/png/games/kil.webp",
+   "kind": "local",
+   "entry_path": "/games/kilfur/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Knife Hit",
+   "thumb": "https://garbsoftball.com/png/games/knife.webp",
+   "kind": "local",
+   "entry_path": "/games/knifehit/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Krunker",
+   "thumb": "https://garbsoftball.com/png/games/krunker.webp",
+   "kind": "local",
+   "entry_path": "/games/krunker/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "La Madriguera",
+   "thumb": "https://garbsoftball.com/png/games/labear.webp",
+   "kind": "local",
+   "entry_path": "/games/lamadriguera/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Lacey's Flash Games, Webport",
+   "thumb": "https://garbsoftball.com/png/games/lacey.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/lacy.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Learn To Fly",
+   "thumb": "https://garbsoftball.com/png/games/learn1.webp",
+   "kind": "local",
+   "entry_path": "/games/learntofly/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Learn To Fly 2",
+   "thumb": "https://garbsoftball.com/png/games/learn2.webp",
+   "kind": "local",
+   "entry_path": "/games/learntofly2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Learn To Fly 3",
+   "thumb": "https://garbsoftball.com/png/games/learn3.webp",
+   "kind": "local",
+   "entry_path": "/games/ltf3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Learn To Fly Idle",
+   "thumb": "https://garbsoftball.com/png/games/learni.webp",
+   "kind": "local",
+   "entry_path": "/games/learntoflyidle/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Lego Star Wars",
+   "thumb": "https://garbsoftball.com/png/games/legostarwars.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/legostarwars.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Lethal Company, Webport",
+   "thumb": "https://garbsoftball.com/png/games/lethal.webp",
+   "kind": "local",
+   "entry_path": "/games/lethal/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Lethal Ape, Webport",
+   "thumb": "https://garbsoftball.com/png/games/lethalape.webp",
+   "kind": "local",
+   "entry_path": "/games/lethalape/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Level Devil",
+   "thumb": "https://garbsoftball.com/png/games/level.webp",
+   "kind": "local",
+   "entry_path": "/games/lvldevil/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Line Rider",
+   "thumb": "https://garbsoftball.com/png/games/line.webp",
+   "kind": "local",
+   "entry_path": "/games/linerider/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Little Alchemy",
+   "thumb": "https://garbsoftball.com/png/games/lil.webp",
+   "kind": "local",
+   "entry_path": "/games/littlealchemy/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Little Alchemy 2",
+   "thumb": "https://garbsoftball.com/png/games/little2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/little2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Little Big Planet",
+   "thumb": "https://garbsoftball.com/png/games/lbp.webp",
+   "kind": "local",
+   "entry_path": "/games/lbp/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Lolbeans.io",
+   "thumb": "https://garbsoftball.com/png/games/lolbeans.webp",
+   "kind": "proxy",
+   "proxy_url": "https://lolbeans.io/",
+   "entry_path": null
+  },
+  {
+   "name": "Lobotomy Corporation, Webport",
+   "thumb": "https://garbsoftball.com/png/games/lobotomycorp.webp",
+   "kind": "local",
+   "entry_path": "/games/lobcorp/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Machine Party",
+   "thumb": "https://garbsoftball.com/png/games/machineparty.webp",
+   "kind": "local",
+   "entry_path": "/games/mp/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madden NFL 24 Mobile Football",
+   "thumb": "https://garbsoftball.com/png/games/madden24.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/electronic-arts/1731/madden-nfl-24-mobile-football.html",
+   "entry_path": null
+  },
+  {
+   "name": "Madness Accelerant",
+   "thumb": "https://garbsoftball.com/png/games/madnessaccelerant.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnessaccelerant.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Ambulation",
+   "thumb": "https://garbsoftball.com/png/games/madnessambulation.webp",
+   "kind": "local",
+   "entry_path": "/games/madnessambulation/madnessambulation.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Combat Defense",
+   "thumb": "https://garbsoftball.com/png/games/madnesscombatdefense.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnesscombatdefense.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Combat FPS Fueled by Hot Dogs",
+   "thumb": "https://garbsoftball.com/png/games/madnesscfpsfbhd.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnesscfpsfbhd.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Madness Gemini",
+   "thumb": "https://garbsoftball.com/png/games/madnessgemini.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnessgemini.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Hydraulic",
+   "thumb": "https://garbsoftball.com/png/games/madnesshydraulic.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnesshydraulic.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Interactive",
+   "thumb": "https://garbsoftball.com/png/games/madnessinteractive.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnessinteractive.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Melee",
+   "thumb": "https://garbsoftball.com/png/games/madness.webp",
+   "kind": "local",
+   "entry_path": "/games/bogtruffled/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Off Color",
+   "thumb": "https://garbsoftball.com/png/games/madnessoffcolor.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnessoffcolor.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Premediation",
+   "thumb": "https://garbsoftball.com/png/games/madnesspremediation.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnesspremediation.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Project Nexus",
+   "thumb": "https://garbsoftball.com/png/games/madnesscombatnexus.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnesscombatnexus.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Madness Retaliation",
+   "thumb": "https://garbsoftball.com/png/games/madnessretaliation.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/madnessretaliation.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Mario Kart 64",
+   "thumb": "https://garbsoftball.com/png/games/mk64.webp",
+   "kind": "local",
+   "entry_path": "/games/mk64/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Mario Kart 7",
+   "thumb": "https://garbsoftball.com/png/games/mk7.webp",
+   "kind": "local",
+   "entry_path": "/games/mk7/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Mario Kart DS",
+   "thumb": "https://garbsoftball.com/png/games/mkds.webp",
+   "kind": "local",
+   "entry_path": "/games/mkds/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Mario Party 1",
+   "thumb": "https://garbsoftball.com/png/games/marioparty1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/marioparty.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Mario Party 2",
+   "thumb": "https://garbsoftball.com/png/games/marioparty2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/marioparty2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Mario Party 3",
+   "thumb": "https://garbsoftball.com/png/games/marioparty3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/marioparty3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Megaman",
+   "thumb": "https://garbsoftball.com/png/games/megaman.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/megaman.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Melon Playground",
+   "thumb": "https://garbsoftball.com/png/games/melon.webp",
+   "kind": "local",
+   "entry_path": "/games/melon-playground/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Merge Rot",
+   "thumb": "https://garbsoftball.com/png/games/rot.webp",
+   "kind": "local",
+   "entry_path": "/games/mergerot/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Milkman karlson, Webport",
+   "thumb": "https://garbsoftball.com/png/games/milk.webp",
+   "kind": "local",
+   "entry_path": "/games/milk/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Mindustry, Webport",
+   "thumb": "https://garbsoftball.com/png/games/mindustry.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/mindustry.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minecraft",
+   "thumb": "https://garbsoftball.com/png/games/mc.webp",
+   "kind": "local",
+   "entry_path": "/games/wispcraft/eag.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minecraft 1.12.2",
+   "thumb": "https://garbsoftball.com/games/eglar/1.12.webp",
+   "kind": "local",
+   "entry_path": "/games/eglar/1dot12dot2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minecraft 1.8.8",
+   "thumb": "https://garbsoftball.com/games/eglar/1.8.webp",
+   "kind": "local",
+   "entry_path": "/games/eglar/EaglercraftX_1dot8_Web/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minecraft Legacy Console Edition, Webport",
+   "thumb": "https://garbsoftball.com/png/games/mclce.webp",
+   "kind": "local",
+   "entry_path": "/games/lce/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minecraft Pocket Edition, Webport",
+   "thumb": "https://garbsoftball.com/png/games/mcpe.webp",
+   "kind": "local",
+   "entry_path": "/games/mcpe/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minecraft Wurst",
+   "thumb": "https://garbsoftball.com/games/eglar/wurst.webp",
+   "kind": "local",
+   "entry_path": "/games/eglar/clwurst.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minesweeper Mania",
+   "thumb": "https://garbsoftball.com/png/games/minese.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/minesweepermania.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Minesweeper Plus, Webport",
+   "thumb": "https://garbsoftball.com/png/games/mineseplu.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/mineplus.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Miside, Webport",
+   "thumb": "https://garbsoftball.com/png/games/miside.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/miside.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Monkey Mart",
+   "thumb": "https://garbsoftball.com/png/games/monkey.webp",
+   "kind": "local",
+   "entry_path": "/games/MonkeyMart/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Monster Tracks",
+   "thumb": "https://garbsoftball.com/png/games/monster.webp",
+   "kind": "local",
+   "entry_path": "/games/monster-tracks/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Moto X3M",
+   "thumb": "https://garbsoftball.com/png/games/moto.webp",
+   "kind": "local",
+   "entry_path": "/games/motox3m/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "My Singing Monsters",
+   "thumb": "https://garbsoftball.com/png/games/msm.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/big-blue/8811/singing-monsters.html",
+   "entry_path": null
+  },
+  {
+   "name": "My Talking Baby Hippo, Webport",
+   "thumb": "https://garbsoftball.com/png/games/hippo.webp",
+   "kind": "local",
+   "entry_path": "/games/mtbh/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "My teardrop, daniel",
+   "thumb": "https://garbsoftball.com/png/games/mytear.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/mytear.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "n-gon",
+   "thumb": "https://garbsoftball.com/png/games/ngon.webp",
+   "kind": "local",
+   "entry_path": "/games/n-gon/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Nazi Zombies: Portable",
+   "thumb": "https://garbsoftball.com/png/games/nazi.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/nzp.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Needy Streamer Overload, Webport",
+   "thumb": "https://garbsoftball.com/png/games/nso.webp",
+   "kind": "local",
+   "entry_path": "/games/nso/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "New Super Mario Bros",
+   "thumb": "https://garbsoftball.com/png/games/nsmb.webp",
+   "kind": "local",
+   "entry_path": "/games/nsmb/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Node Buster, Webport",
+   "thumb": "https://garbsoftball.com/png/games/nodebuster.webp",
+   "kind": "local",
+   "entry_path": "/games/nodebuster/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Nubbys Number Factory, Webport",
+   "thumb": "https://garbsoftball.com/png/games/nubby.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/nubby.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Om Nom Run",
+   "thumb": "https://garbsoftball.com/png/games/omnomrun.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/omnomrun.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "OMORI, Webport",
+   "thumb": "https://garbsoftball.com/png/games/omori.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/OMORI.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Oneshot, Webport",
+   "thumb": "https://garbsoftball.com/png/games/oneshot.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/oneshot.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Oneshot World Machine Edition, Webport",
+   "thumb": "https://garbsoftball.com/png/games/oneshotwm.webp",
+   "kind": "local",
+   "entry_path": "/games/worldmachine/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Orange Roulette",
+   "thumb": "https://garbsoftball.com/png/games/orange.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/orange.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Oshi Oshi Punch",
+   "thumb": "https://garbsoftball.com/png/games/oshi.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/onshi.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Osu!",
+   "thumb": "https://garbsoftball.com/png/games/osu.webp",
+   "kind": "local",
+   "entry_path": "/games/osu!/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Overburden, Webport",
+   "thumb": "https://garbsoftball.com/png/games/overburden.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/overburden.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "OvO",
+   "thumb": "https://garbsoftball.com/png/games/ovo.webp",
+   "kind": "local",
+   "entry_path": "/games/ovo/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "OvO 2",
+   "thumb": "https://garbsoftball.com/png/games/ovo2.webp",
+   "kind": "local",
+   "entry_path": "/games/OvO2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "OvO Dimensions",
+   "thumb": "https://garbsoftball.com/png/games/ovodi.webp",
+   "kind": "local",
+   "entry_path": "/games/OvoDimensions/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pacman",
+   "thumb": "https://garbsoftball.com/png/games/pacman.webp",
+   "kind": "local",
+   "entry_path": "/games/pacman/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pacman World",
+   "thumb": "https://garbsoftball.com/png/games/pacmanworld.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/pacmanw.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pacman World 2",
+   "thumb": "https://garbsoftball.com/png/games/pacmanworld2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/pacmanw2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Paint Gal Adventures",
+   "thumb": "https://garbsoftball.com/png/games/paintgal.webp",
+   "kind": "local",
+   "entry_path": "/games/paintbog/Paint Gal Adventures.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Papas Bakeria",
+   "thumb": "https://garbsoftball.com/png/games/bake.webp",
+   "kind": "local",
+   "entry_path": "/games/papasbakeria/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Papas Burgeria",
+   "thumb": "https://garbsoftball.com/png/games/burger.webp",
+   "kind": "local",
+   "entry_path": "/games/papasburgeria/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Papas Cheeseria",
+   "thumb": "https://garbsoftball.com/png/games/cheese.webp",
+   "kind": "local",
+   "entry_path": "/games/papascheeseria/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Papas Donuteria",
+   "thumb": "https://garbsoftball.com/png/games/donut.webp",
+   "kind": "local",
+   "entry_path": "/games/papasdonuteria/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Papas Freezeria",
+   "thumb": "https://garbsoftball.com/png/games/freeze.webp",
+   "kind": "local",
+   "entry_path": "/games/papasfreezeria/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Papas Pizzaeria",
+   "thumb": "https://garbsoftball.com/png/games/pizza.webp",
+   "kind": "local",
+   "entry_path": "/games/papaspizza/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Paper Mario",
+   "thumb": "https://garbsoftball.com/png/games/papermario.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/papermario.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Paperio 2",
+   "thumb": "https://garbsoftball.com/png/games/paperio2.webp",
+   "kind": "local",
+   "entry_path": "/games/paperio2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Papers, Please",
+   "thumb": "https://garbsoftball.com/png/games/papers.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/papers.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Parappa The Rapper",
+   "thumb": "https://garbsoftball.com/png/games/rapper.webp",
+   "kind": "local",
+   "entry_path": "/games/paps/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Parappa The Rapper 2",
+   "thumb": "https://garbsoftball.com/png/games/parappa2.webp",
+   "kind": "local",
+   "entry_path": "/games/parappa2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Peak, Webport",
+   "thumb": "https://garbsoftball.com/png/games/peak.webp",
+   "kind": "local",
+   "entry_path": "/games/peak/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Peaks of Yore, Webport",
+   "thumb": "https://garbsoftball.com/png/games/peaksofyore.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/peaksofyore.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Peggle",
+   "thumb": "https://garbsoftball.com/png/games/peggle.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Peggle.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "People Playground, Webport",
+   "thumb": "https://garbsoftball.com/png/games/peoplepg.webp",
+   "kind": "local",
+   "entry_path": "/games/ppg/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Pikuniku, Webport",
+   "thumb": "https://garbsoftball.com/png/games/piku.webp",
+   "kind": "local",
+   "entry_path": "/games/pikubog/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Pixel Gun 3D",
+   "thumb": "https://garbsoftball.com/png/games/pixelgun.webp",
+   "kind": "local",
+   "entry_path": "/games/pixl/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pizzatron 3000",
+   "thumb": "https://garbsoftball.com/png/games/pizza3.webp",
+   "kind": "local",
+   "entry_path": "/games/pizza/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pizza Tower, Webport",
+   "thumb": "https://garbsoftball.com/png/games/pizzatower.webp",
+   "kind": "local",
+   "entry_path": "/games/NoiseUpdate/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pizza Tower: Scoutdigo",
+   "thumb": "https://garbsoftball.com/png/games/pts.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/pts.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Plants VS Zombies",
+   "thumb": "https://garbsoftball.com/png/games/pvz.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/pvs.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Plants VS Zombies Garden Endless",
+   "thumb": "https://garbsoftball.com/png/games/pvz2.webp",
+   "kind": "local",
+   "entry_path": "/games/pvzge/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Plauge Inc, Webport",
+   "thumb": "https://garbsoftball.com/png/games/plaugeinc.webp",
+   "kind": "local",
+   "entry_path": "/games/PlagueInc/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Pokemon Academy Life Forever",
+   "thumb": "https://garbsoftball.com/png/games/pokemonacademy.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/pokemonacademy.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pokemon Blue",
+   "thumb": "https://garbsoftball.com/png/games/blue.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/blue.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pokemon Crystal",
+   "thumb": "https://garbsoftball.com/png/games/crystal.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/blob.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pokemon Emerald",
+   "thumb": "https://garbsoftball.com/png/games/em.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/em.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pokemon Gold",
+   "thumb": "https://garbsoftball.com/png/games/gold.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/red.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pokemon Red",
+   "thumb": "https://garbsoftball.com/png/games/pokemonfirered.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/red.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pokemon Stadium",
+   "thumb": "https://garbsoftball.com/png/games/pokestad.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/pokestad.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Pokemon Stadium 2",
+   "thumb": "https://garbsoftball.com/png/games/pokestad2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/pokestad2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Polytrack",
+   "thumb": "https://garbsoftball.com/png/games/poly.webp",
+   "kind": "local",
+   "entry_path": "/games/polytrack/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Portal",
+   "thumb": "https://garbsoftball.com/png/games/portal.webp",
+   "kind": "local",
+   "entry_path": "/games/portal/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Portal 2",
+   "thumb": "https://garbsoftball.com/png/games/p2.webp",
+   "kind": "local",
+   "entry_path": "/games/portal2/portal2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Postal, Webport",
+   "thumb": "https://garbsoftball.com/png/games/postal.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/postal.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Poppy Playtime",
+   "thumb": "https://garbsoftball.com/png/games/poppy.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/a/1293/b.html",
+   "entry_path": null
+  },
+  {
+   "name": "Potion Craft Alchemy Simulator, Webport",
+   "thumb": "https://garbsoftball.com/png/games/pcraft.webp",
+   "kind": "local",
+   "entry_path": "/games/pcraft/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Pretend its not there, Webport",
+   "thumb": "https://garbsoftball.com/png/games/pre.webp",
+   "kind": "local",
+   "entry_path": "/games/pretenditsnotthere/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Prodigy",
+   "thumb": "https://garbsoftball.com/png/games/prodigy.webp",
+   "kind": "local",
+   "entry_path": "/games/prodigy/select/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "PUBG Mobile: Aftermath",
+   "thumb": "https://garbsoftball.com/png/games/pubgmobile.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/proxima-beta/2609/pubg-mobile-resistance.html",
+   "entry_path": null
+  },
+  {
+   "name": "Quake",
+   "thumb": "https://garbsoftball.com/png/games/quake.webp",
+   "kind": "local",
+   "entry_path": "/games/quake/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Quake II",
+   "thumb": "https://garbsoftball.com/png/games/quakeii.webp",
+   "kind": "local",
+   "entry_path": "/games/quakeii/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Quake III",
+   "thumb": "https://garbsoftball.com/png/games/quakeiii.webp",
+   "kind": "local",
+   "entry_path": "/games/quakeiii/Quake3.htm",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Rabbids Alive And Kicking",
+   "thumb": "https://garbsoftball.com/png/games/rabbidalive.webp",
+   "kind": "local",
+   "entry_path": "/games/rabbidsa/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Rabbids Travel In Time",
+   "thumb": "https://garbsoftball.com/png/games/rabbidstravel.webp",
+   "kind": "local",
+   "entry_path": "/games/rabbidst/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Raft Wars",
+   "thumb": "https://garbsoftball.com/png/games/raft1.webp",
+   "kind": "local",
+   "entry_path": "/games/raft-wars/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Raft Wars 2",
+   "thumb": "https://garbsoftball.com/png/games/raft2.webp",
+   "kind": "local",
+   "entry_path": "/games/raft-wars-2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "RAFT, Webport",
+   "thumb": "https://garbsoftball.com/png/games/raft.webp",
+   "kind": "local",
+   "entry_path": "/games/raft/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Ragdoll Archers",
+   "thumb": "https://garbsoftball.com/png/games/archer.webp",
+   "kind": "local",
+   "entry_path": "/games/ragdoll-archers/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Ragdoll Hit",
+   "thumb": "https://garbsoftball.com/png/games/hit.webp",
+   "kind": "local",
+   "entry_path": "/games/ragdoll/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Raldi's Crack House",
+   "thumb": "https://garbsoftball.com/png/games/raldi.webp",
+   "kind": "local",
+   "entry_path": "/games/raldi/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Rayman",
+   "thumb": "https://garbsoftball.com/png/games/rayman.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/rayman.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "RE:RUN, Webport",
+   "thumb": "https://garbsoftball.com/png/games/rerun.webp",
+   "kind": "local",
+   "entry_path": "/games/rerun/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "REPO, Webport",
+   "thumb": "https://garbsoftball.com/png/games/repo.webp",
+   "kind": "local",
+   "entry_path": "/games/repo/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Resident Evil 1",
+   "thumb": "https://garbsoftball.com/png/games/res1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/res1.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Resident Evil 2",
+   "thumb": "https://garbsoftball.com/png/games/res2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/res2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Retro Bowl",
+   "thumb": "https://garbsoftball.com/png/games/retro.webp",
+   "kind": "local",
+   "entry_path": "/games/retro-bowl/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Retro Bowl College",
+   "thumb": "https://garbsoftball.com/png/games/retroc.webp",
+   "kind": "local",
+   "entry_path": "/games/rbcollege/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Rhythm Heaven",
+   "thumb": "https://garbsoftball.com/png/games/rhythm.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/rhythm.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Riddle School",
+   "thumb": "https://garbsoftball.com/png/games/riddle1.webp",
+   "kind": "local",
+   "entry_path": "/games/riddleschool/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Riddle School 2",
+   "thumb": "https://garbsoftball.com/png/games/riddle2.webp",
+   "kind": "local",
+   "entry_path": "/games/sriddleschool2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Riddle School 3",
+   "thumb": "https://garbsoftball.com/png/games/riddle3.webp",
+   "kind": "local",
+   "entry_path": "/games/riddleschool3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Riddle School 4",
+   "thumb": "https://garbsoftball.com/png/games/riddle4.webp",
+   "kind": "local",
+   "entry_path": "/games/riddleschool4/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Riddle School 5",
+   "thumb": "https://garbsoftball.com/png/games/riddle5.webp",
+   "kind": "local",
+   "entry_path": "/games/riddleschool5/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Riddle School Transfer",
+   "thumb": "https://garbsoftball.com/png/games/riddletr.webp",
+   "kind": "local",
+   "entry_path": "/games/riddleschooltransfer/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Riddle School Transfer 2",
+   "thumb": "https://garbsoftball.com/png/games/riddletr2.webp",
+   "kind": "local",
+   "entry_path": "/games/riddleschooltransfer2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Rimworld, Webport",
+   "thumb": "https://garbsoftball.com/png/games/rimword.webp",
+   "kind": "local",
+   "entry_path": "/games/rimworld/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Rocket League Sideswipe",
+   "thumb": "https://garbsoftball.com/png/games/rrs.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/psyonix-studios/4656/rocket-league.html",
+   "entry_path": null
+  },
+  {
+   "name": "Roblox",
+   "thumb": "https://garbsoftball.com/png/games/roblox.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/a/19900/b.html",
+   "entry_path": null
+  },
+  {
+   "name": "Rooftop Snipers",
+   "thumb": "https://garbsoftball.com/png/games/roof2.webp",
+   "kind": "local",
+   "entry_path": "/games/rooftop-snipers/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Rooftop Snipers 2",
+   "thumb": "https://garbsoftball.com/png/games/roof1.webp",
+   "kind": "local",
+   "entry_path": "/games/rooftop-snipers-2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Run",
+   "thumb": "https://garbsoftball.com/png/games/run1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/run.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Run 2",
+   "thumb": "https://garbsoftball.com/png/games/run2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/run2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Run 3",
+   "thumb": "https://garbsoftball.com/png/games/run3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/run3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Running Fred, Webport",
+   "thumb": "https://garbsoftball.com/png/games/fred.webp",
+   "kind": "local",
+   "entry_path": "/games/fred/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Rhythm Hell",
+   "thumb": "https://garbsoftball.com/png/games/rhythmhell.webp",
+   "kind": "local",
+   "entry_path": "/games/rhythm-hell/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Saihate Station, Webport",
+   "thumb": "https://garbsoftball.com/png/games/saihatestation.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/saihatestation.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sandboxels",
+   "thumb": "https://garbsoftball.com/png/games/sand.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/Sandboxels.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sanic Ball, Webport",
+   "thumb": "https://garbsoftball.com/png/games/sanicball.webp",
+   "kind": "local",
+   "entry_path": "/games/ball/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Scary Path",
+   "thumb": "https://garbsoftball.com/png/games/path.webp",
+   "kind": "local",
+   "entry_path": "/games/scary-path/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Scary Teacher 3D",
+   "thumb": "https://garbsoftball.com/png/games/scary.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/scary.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Schoolboy Runaway, Webport",
+   "thumb": "https://garbsoftball.com/png/games/runaway.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/runaway.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "SCP: Secret Laboratory, Webport",
+   "thumb": "https://garbsoftball.com/png/games/scp.webp",
+   "kind": "local",
+   "entry_path": "/games/scp/scp.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Shift At Midnight, Webport",
+   "thumb": "https://garbsoftball.com/png/games/shift.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/shift.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Shrimp.io, Webport",
+   "thumb": "https://garbsoftball.com/png/games/shrimpio.webp",
+   "kind": "local",
+   "entry_path": "/games/shrimpio/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Silksong, Webport",
+   "thumb": "https://garbsoftball.com/png/games/silk.webp",
+   "kind": "local",
+   "entry_path": "/games/silk/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Skibidi Shooter",
+   "thumb": "https://garbsoftball.com/png/games/ski.webp",
+   "kind": "local",
+   "entry_path": "/games/skibidi-shooter/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Skiing Fred",
+   "thumb": "https://garbsoftball.com/png/games/skiing.webp",
+   "kind": "local",
+   "entry_path": "/games/skiing/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Skribbl.io",
+   "thumb": "https://garbsoftball.com/png/games/skribblio.webp",
+   "kind": "proxy",
+   "proxy_url": "https://skribbl.io/",
+   "entry_path": null
+  },
+  {
+   "name": "Slender: The 8 Pages, Webport",
+   "thumb": "https://garbsoftball.com/png/games/slender.webp",
+   "kind": "local",
+   "entry_path": "/games/slender/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Slendytubbies I, Webport",
+   "thumb": "https://garbsoftball.com/png/games/slendy1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/slendy1.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Slendytubbies II, Webport",
+   "thumb": "https://garbsoftball.com/png/games/slendy.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/slendy.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Slendytubbies II 2D, Webport",
+   "thumb": "https://garbsoftball.com/png/games/slendy2d.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/slendy2d/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Slient Hill",
+   "thumb": "https://garbsoftball.com/png/games/slienthill.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/slienthill.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Slime Ranchers, Webport",
+   "thumb": "https://garbsoftball.com/png/games/slime.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/slimeranchers.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Slither.io, Webport",
+   "thumb": "https://garbsoftball.com/png/games/sli.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/sfge.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Slope",
+   "thumb": "https://garbsoftball.com/png/games/slope.webp",
+   "kind": "local",
+   "entry_path": "/games/slope/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Slowroads",
+   "thumb": "https://garbsoftball.com/png/games/slow.webp",
+   "kind": "local",
+   "entry_path": "/games/slowroads/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "SM64, Super Mario 64",
+   "thumb": "https://garbsoftball.com/png/games/sm64.webp",
+   "kind": "local",
+   "entry_path": "/games/sm64/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Mario 64 Coop DX",
+   "thumb": "https://garbsoftball.com/png/games/sm64coop.avif",
+   "kind": "local",
+   "entry_path": "/games/sm64coop/sm64coopdx.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Mario Bros",
+   "thumb": "https://garbsoftball.com/png/games/smb.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/smb.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Mario Galaxy DS",
+   "thumb": "https://garbsoftball.com/png/games/smgds.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/smgds.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Oliver World",
+   "thumb": "https://garbsoftball.com/png/games/superoliverworld.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/superoliverworld.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Smash Bros",
+   "thumb": "https://garbsoftball.com/png/games/ssm.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/ssm.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Tux Kart",
+   "thumb": "https://garbsoftball.com/png/games/supertuxkart.webp",
+   "kind": "local",
+   "entry_path": "/games/supertuxkart/SuperTuxKart.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Smash Karts",
+   "thumb": "https://garbsoftball.com/png/games/smashkarts.webp",
+   "kind": "local",
+   "entry_path": "/games/smashkarts/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Snow Rider 3D",
+   "thumb": "https://garbsoftball.com/png/games/snow.webp",
+   "kind": "local",
+   "entry_path": "/games/snowrider3D-main/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Snow Battle",
+   "thumb": "https://garbsoftball.com/png/games/snowio.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/snow.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Soccer Bros",
+   "thumb": "https://garbsoftball.com/png/games/soccer.webp",
+   "kind": "local",
+   "entry_path": "/games/soccerbros/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Soccer Random",
+   "thumb": "https://garbsoftball.com/png/games/soccerra.webp",
+   "kind": "local",
+   "entry_path": "/games/soccer-random/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Solar Smash",
+   "thumb": "https://garbsoftball.com/png/games/solar.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/solar.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Solitaire",
+   "thumb": "https://garbsoftball.com/png/games/soli.webp",
+   "kind": "local",
+   "entry_path": "/games/solitaire/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic 1",
+   "thumb": "https://garbsoftball.com/png/games/sonic1.webp",
+   "kind": "local",
+   "entry_path": "/games/sonic/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic 2",
+   "thumb": "https://garbsoftball.com/png/games/sonic2.webp",
+   "kind": "local",
+   "entry_path": "/games/sonic2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic 3",
+   "thumb": "https://garbsoftball.com/png/games/sonic3.webp",
+   "kind": "local",
+   "entry_path": "/games/sonic3/sonic3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic 4",
+   "thumb": "https://garbsoftball.com/png/games/sonic4.webp",
+   "kind": "local",
+   "entry_path": "/games/sonic4/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic 3D Blast",
+   "thumb": "https://garbsoftball.com/png/games/sonic3dblast.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/sonic3dblast.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic CD",
+   "thumb": "https://garbsoftball.com/png/games/soniccd.webp",
+   "kind": "local",
+   "entry_path": "/games/soniccd/soniccd.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic EXE",
+   "thumb": "https://garbsoftball.com/png/games/sonicexe.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/sonicexe.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic Jam",
+   "thumb": "https://garbsoftball.com/png/games/sonicjam.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/sonicjam.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic Mania, Webport",
+   "thumb": "https://garbsoftball.com/png/games/mania.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/sonic.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic R",
+   "thumb": "https://garbsoftball.com/png/games/sonicr.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/sonicr.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic Robo Blast 2",
+   "thumb": "https://garbsoftball.com/png/games/robo.webp",
+   "kind": "local",
+   "entry_path": "/games/srb2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic Robo Blast 2 KART",
+   "thumb": "https://garbsoftball.com/png/games/kart.webp",
+   "kind": "local",
+   "entry_path": "/games/kart/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Sonic World Next",
+   "thumb": "https://garbsoftball.com/png/games/swn.webp",
+   "kind": "local",
+   "entry_path": "/games/swn/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Space Waves",
+   "thumb": "https://garbsoftball.com/png/games/space.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/spacewaves.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Spaceflight Simulator, Webport",
+   "thumb": "https://garbsoftball.com/png/games/ssim.webp",
+   "kind": "local",
+   "entry_path": "/games/spaceflightsim/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Spank the monkey, bogs favorites",
+   "thumb": "https://garbsoftball.com/png/games/monk.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/monkey.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Speed Stars",
+   "thumb": "https://garbsoftball.com/png/games/speed.webp",
+   "kind": "local",
+   "entry_path": "/games/speed-stars/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Spelunky Classic HD",
+   "thumb": "https://garbsoftball.com/png/games/spelunkyclassic.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/spelunky.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Starbound, Webport",
+   "thumb": "https://garbsoftball.com/png/games/starbound.webp",
+   "kind": "local",
+   "entry_path": "/games/Starbound/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Stardew Valley, Webport",
+   "thumb": "https://garbsoftball.com/png/games/stardew.webp",
+   "kind": "local",
+   "entry_path": "/games/stardew/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Stick War: Legacy",
+   "thumb": "https://garbsoftball.com/png/games/stickwar.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/stickwar.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Stick With It, Webport",
+   "thumb": "https://garbsoftball.com/png/games/stick.webp",
+   "kind": "local",
+   "entry_path": "/games/stick/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Stickman Hook",
+   "thumb": "https://garbsoftball.com/png/games/stickman.webp",
+   "kind": "local",
+   "entry_path": "/games/stickman-hook/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Stumble Guys",
+   "thumb": "https://garbsoftball.com/png/games/stumbleguys.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/a/10011/b.html",
+   "entry_path": null
+  },
+  {
+   "name": "Subway Surfers",
+   "thumb": "https://garbsoftball.com/png/games/sub.webp",
+   "kind": "local",
+   "entry_path": "/games/subway-surfers/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Flight, Webport",
+   "thumb": "https://garbsoftball.com/png/games/superflight.webp",
+   "kind": "local",
+   "entry_path": "/games/superflight/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Super Hot",
+   "thumb": "https://garbsoftball.com/png/games/superhot.webp",
+   "kind": "local",
+   "entry_path": "/games/superhot/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Meat Boy",
+   "thumb": "https://garbsoftball.com/png/games/meat.webp",
+   "kind": "local",
+   "entry_path": "/games/meatboy/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Monkey Ball 1 & 2",
+   "thumb": "https://garbsoftball.com/png/games/monkb.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/monk.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Monkey Ball JR",
+   "thumb": "https://garbsoftball.com/png/games/supermonkey.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/supermonkey.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Smash Flash",
+   "thumb": "https://garbsoftball.com/png/games/supersmash.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/ssf.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Super Smash Flash 2",
+   "thumb": "https://garbsoftball.com/png/games/ssf2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/ssf2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Survivor.io, Webport",
+   "thumb": "https://garbsoftball.com/png/games/survivorio.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/survivor.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Taiko No Tatsujini",
+   "thumb": "https://garbsoftball.com/png/games/taiko.webp",
+   "kind": "local",
+   "entry_path": "/games/psp/tja/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tanuki Sunset",
+   "thumb": "https://garbsoftball.com/png/games/tanukisunset.webp",
+   "kind": "local",
+   "entry_path": "/games/tanukisunset/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Tattle Tail, Webport",
+   "thumb": "https://garbsoftball.com/png/games/tat.webp",
+   "kind": "local",
+   "entry_path": "/games/tattletail/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Tax Heaven 3000, Webport",
+   "thumb": "https://garbsoftball.com/png/games/th3000.webp",
+   "kind": "local",
+   "entry_path": "/games/th3000/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Ten Basket",
+   "thumb": "https://garbsoftball.com/png/games/ten.webp",
+   "kind": "local",
+   "entry_path": "/games/ten-basket/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Terraria, Webport",
+   "thumb": "https://garbsoftball.com/png/games/ter.webp",
+   "kind": "local",
+   "entry_path": "/games/terraria/terraria-wrapper.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tetris",
+   "thumb": "https://garbsoftball.com/png/games/tet.webp",
+   "kind": "local",
+   "entry_path": "/games/tetris/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tetrisweeper",
+   "thumb": "https://garbsoftball.com/png/games/tetriss.webp",
+   "kind": "local",
+   "entry_path": "/games/tetrisweeper/",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Binding Of Issac",
+   "thumb": "https://garbsoftball.com/png/games/tboi.webp",
+   "kind": "local",
+   "entry_path": "/games/binding-of-isaac/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Binding Of Isaac Wrath Of The Lamb",
+   "thumb": "https://garbsoftball.com/png/games/tboiw.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/tboiw.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Binding Of Isaac Wrath Of The Lamb: Eternal",
+   "thumb": "https://garbsoftball.com/png/games/boilambeternal.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/boilambeternal.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Binding Of Issac: Rebirth, Webport",
+   "thumb": "https://garbsoftball.com/png/games/tboir.webp",
+   "kind": "local",
+   "entry_path": "/games/psp/tboir/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Binding Of Issac: Repentance, Webport",
+   "thumb": "https://garbsoftball.com/png/games/boir.webp",
+   "kind": "local",
+   "entry_path": "/games/boir/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Impossible Quiz",
+   "thumb": "https://garbsoftball.com/png/games/quiz.webp",
+   "kind": "local",
+   "entry_path": "/games/theimpossiblequiz/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Impossible Quiz 2",
+   "thumb": "https://garbsoftball.com/png/games/impos2.webp",
+   "kind": "local",
+   "entry_path": "/games/iq2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Legend of Zelda Ocarina of Time",
+   "thumb": "https://garbsoftball.com/png/games/tloz.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/tloz.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "The Sims Mobile",
+   "thumb": "https://garbsoftball.com/png/games/simsmobile.webp",
+   "kind": "proxy",
+   "proxy_url": "https://nowgg.fun/apps/electronic-arts/2155/the-sims-mobile.html",
+   "entry_path": null
+  },
+  {
+   "name": "Thats Not My Neighbor, Webport",
+   "thumb": "https://garbsoftball.com/png/games/thatsnot.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/thatsnot.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "There Is No Game",
+   "thumb": "https://garbsoftball.com/png/games/ting.webp",
+   "kind": "local",
+   "entry_path": "/games/there-is-no-game/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Time Shooter 1",
+   "thumb": "https://garbsoftball.com/png/games/tim1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/time1.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Time Shooter 2",
+   "thumb": "https://garbsoftball.com/png/games/tim2.webp",
+   "kind": "local",
+   "entry_path": "/games/timeshooter2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Time Shooter 3",
+   "thumb": "https://garbsoftball.com/png/games/tim3.webp",
+   "kind": "local",
+   "entry_path": "/games/timeshoot3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tiny Fishing",
+   "thumb": "https://garbsoftball.com/png/games/tiny.webp",
+   "kind": "local",
+   "entry_path": "/games/tiny-fishing/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "To The Core, Webport",
+   "thumb": "https://garbsoftball.com/png/games/to.webp",
+   "kind": "local",
+   "entry_path": "/games/tothecore/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tomb Of The Mask",
+   "thumb": "https://garbsoftball.com/png/games/tomb.webp",
+   "kind": "local",
+   "entry_path": "/games/tombofthemask/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tomodachi Collection",
+   "thumb": "https://garbsoftball.com/png/games/tomo.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/tomo.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Toss The Turtle",
+   "thumb": "https://garbsoftball.com/png/games/ttt.webp",
+   "kind": "local",
+   "entry_path": "/games/tosstheturtle/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Totally Acturate Battle Simulator, Webport",
+   "thumb": "https://garbsoftball.com/png/games/tabs.webp",
+   "kind": "local",
+   "entry_path": "/games/tabs/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Touhou 1 Touhou-Reiiden",
+   "thumb": "https://garbsoftball.com/png/games/touhou1.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/touhou.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Touhou 2 Touhou-Fuumaroku",
+   "thumb": "https://garbsoftball.com/png/games/touhou2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/touhou2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Touhou 3 Touhou-Yumejikuu",
+   "thumb": "https://garbsoftball.com/png/games/touhou3.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/touhou3.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Touhou 4 Touhou-Gensokyou",
+   "thumb": "https://garbsoftball.com/png/games/touhou4.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/touhou4.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Touhou 5 Touhou-Kaikidan",
+   "thumb": "https://garbsoftball.com/png/games/touhou5.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/touhou5.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Touhou Mother, Webport",
+   "thumb": "https://garbsoftball.com/png/games/touhou.webp",
+   "kind": "local",
+   "entry_path": "/games/touhoumother/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tree Hates You, Webport",
+   "thumb": "https://garbsoftball.com/png/games/treehatesyou.webp",
+   "kind": "local",
+   "entry_path": "/games/treehatesyou/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Trombone Champ, Webport",
+   "thumb": "https://garbsoftball.com/png/games/tchamp.webp",
+   "kind": "local",
+   "entry_path": "/games/tchamp/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Tube Jumpers",
+   "thumb": "https://garbsoftball.com/png/games/tube.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/tube.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Tung Tung Basics, Webport",
+   "thumb": "https://garbsoftball.com/png/games/tungtungbasics.webp",
+   "kind": "local",
+   "entry_path": "/games/tungtungbog/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Tung Tung Horror",
+   "thumb": "https://garbsoftball.com/png/games/tung.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/tung.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Ultrakill, Webport",
+   "thumb": "https://garbsoftball.com/png/games/ultra.webp",
+   "kind": "local",
+   "entry_path": "/games/thkill/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Ultrapool, Webport",
+   "thumb": "https://garbsoftball.com/png/games/ultrapool.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/ultrapool.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Um Jammer Lammy",
+   "thumb": "https://garbsoftball.com/png/games/jammer.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/jemmer.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Undertale 10th Anniversary, Webport",
+   "thumb": "https://garbsoftball.com/png/games/undertale10.webp",
+   "kind": "local",
+   "entry_path": "/games/10th/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Undertale, Webport",
+   "thumb": "https://garbsoftball.com/png/games/uertale.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/undertale.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Undertale Last Breath",
+   "thumb": "https://garbsoftball.com/png/games/udlb.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/udlb.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Undertale Yellow, Webport",
+   "thumb": "https://garbsoftball.com/png/games/udy.webp",
+   "kind": "local",
+   "entry_path": "/games/uty/play.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Untitled Goose Game, Webport",
+   "thumb": "https://garbsoftball.com/png/games/untitled.webp",
+   "kind": "local",
+   "entry_path": "/games/UntitledGooseGameBog/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vampire Survivors, Webport",
+   "thumb": "https://garbsoftball.com/png/games/vampire.webp",
+   "kind": "local",
+   "entry_path": "/games/vampire/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex",
+   "thumb": "https://garbsoftball.com/png/games/vex.webp",
+   "kind": "local",
+   "entry_path": "/games/vex/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex 2",
+   "thumb": "https://garbsoftball.com/png/games/vex2.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/vex2.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex 3",
+   "thumb": "https://garbsoftball.com/png/games/vex3.webp",
+   "kind": "local",
+   "entry_path": "/games/vex3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex 4",
+   "thumb": "https://garbsoftball.com/png/games/vex4.webp",
+   "kind": "local",
+   "entry_path": "/games/vex4/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex 5",
+   "thumb": "https://garbsoftball.com/png/games/vex5.webp",
+   "kind": "local",
+   "entry_path": "/games/vex5/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex 6",
+   "thumb": "https://garbsoftball.com/png/games/vex6.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/vex6.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex 7",
+   "thumb": "https://garbsoftball.com/png/games/vex7.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/vex7.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vex 8",
+   "thumb": "https://garbsoftball.com/png/games/vex8.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/vex8.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Vib-Ribbon, Webport",
+   "thumb": "https://garbsoftball.com/png/games/vib.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/vib.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Volley Random",
+   "thumb": "https://garbsoftball.com/games/volley-random/splash.png",
+   "kind": "local",
+   "entry_path": "/games/volley-random/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Warioware D.I.Y",
+   "thumb": "https://garbsoftball.com/png/games/wariowarediy.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/wariowarediy.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "We Become What We behold",
+   "thumb": "https://garbsoftball.com/png/games/wbwwb.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/wbwwb.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Webdashers",
+   "thumb": "https://garbsoftball.com/png/games/webdashers.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/gd.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Webfishing, Webport",
+   "thumb": "https://garbsoftball.com/png/games/web.webp",
+   "kind": "local",
+   "entry_path": "/games/webfishing/",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Who's Your Daddy, Webport",
+   "thumb": "https://garbsoftball.com/png/games/daddy.webp",
+   "kind": "local",
+   "entry_path": "/games/whoseyourdaddy/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Windowkill, Webport",
+   "thumb": "https://garbsoftball.com/png/games/windowkill.webp",
+   "kind": "local",
+   "entry_path": "/games/windowkill/",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Witch's Heart, Webport",
+   "thumb": "https://garbsoftball.com/png/games/witches.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/witches.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Worldbox, Webport",
+   "thumb": "https://garbsoftball.com/png/games/worldbox.webp",
+   "kind": "local",
+   "entry_path": "/games/worldbox/index.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Wordle",
+   "thumb": "https://garbsoftball.com/png/games/world.webp",
+   "kind": "local",
+   "entry_path": "/games/wordle-unlimited/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Worlds Hardest Game",
+   "thumb": "https://garbsoftball.com/png/games/wrdd.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/twhg.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Worlds Hardest Game 2",
+   "thumb": "https://garbsoftball.com/games/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+   "kind": "local",
+   "entry_path": "/games/worlds-hardest-game-2/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Worlds Hardest Game 3",
+   "thumb": "https://garbsoftball.com/png/games/3.webp",
+   "kind": "local",
+   "entry_path": "/games/worlds-hardest-game-3/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Worlds Hardest Game 4",
+   "thumb": "https://garbsoftball.com/png/games/whg4.webp",
+   "kind": "local",
+   "entry_path": "/games/worlds-hardest-game-4/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Woody's Incredible Journey To The Escape From Eternal Terror",
+   "thumb": "https://garbsoftball.com/png/games/WIJ.webp",
+   "kind": "local",
+   "entry_path": "/games/WIJ/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Yandere Simulator, Webport",
+   "thumb": "https://garbsoftball.com/png/games/yandere.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/yandere.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Yoked",
+   "thumb": "https://garbsoftball.com/png/games/yoked.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/yoked.html",
+   "wrapper": "unityframe"
+  },
+  {
+   "name": "Your Only Move Is HUSTLE, YOMI Hustle, Webport",
+   "thumb": "https://garbsoftball.com/png/games/YOMI.webp",
+   "kind": "local",
+   "entry_path": "/games/YOMIHustle/index.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Venge.io",
+   "thumb": "https://garbsoftball.com/png/games/vengoio.webp",
+   "kind": "proxy",
+   "proxy_url": "https://iogamesio.org/vengeio.embed",
+   "entry_path": null
+  },
+  {
+   "name": "Yume Nikki, Webport",
+   "thumb": "https://garbsoftball.com/png/games/yumi.webp",
+   "kind": "local",
+   "entry_path": "/gamefile/yume.html",
+   "wrapper": "iframe"
+  },
+  {
+   "name": "Zombs Royale",
+   "thumb": "https://garbsoftball.com/png/games/zombs.webp",
+   "kind": "proxy",
+   "proxy_url": "https://zombsroyale.io/",
+   "entry_path": null
+  },
+  {
+   "name": "Zuma",
+   "thumb": "https://garbsoftball.com/png/games/zuma.webp",
+   "kind": "local",
+   "entry_path": "/games/zuma/index.html",
+   "wrapper": "iframe"
+  }
+ ]
+}
