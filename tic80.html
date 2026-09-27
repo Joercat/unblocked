@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TIC-80 Player</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+    background: #0b0d17; color: #e8eaf6;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  header {
+    width: 100%; max-width: 1000px; display: flex; align-items: baseline; gap: 14px;
+    padding: 14px 16px 6px; flex-wrap: wrap;
+  }
+  header a { color: #7c9cff; text-decoration: none; font-size: 14px; }
+  header a:hover { text-decoration: underline; }
+  #title { font-size: 18px; margin: 0; font-weight: 700; letter-spacing: .5px; }
+  #meta { font-size: 12px; color: #8a91b4; }
+  #frame {
+    width: min(94vw, 960px); aspect-ratio: 16 / 9; position: relative; margin: 10px 0 20px;
+    background: #1a1c2c; border: 2px solid #2a2e45; border-radius: 8px; overflow: hidden;
+    box-shadow: 0 12px 40px rgba(0,0,0,.5);
+  }
+  canvas { width: 100%; height: 100%; display: block; image-rendering: pixelated; }
+  #cover {
+    position: absolute; inset: 0; display: flex; flex-direction: column; gap: 8px;
+    align-items: center; justify-content: center; cursor: pointer; user-select: none;
+    color: #cfd4f2; letter-spacing: 3px; font-size: clamp(16px, 3vw, 28px);
+    background:
+      repeating-linear-gradient(0deg, rgba(255,255,255,.025) 0 1px, transparent 1px 3px),
+      #1a1c2c;
+  }
+  #cover .sub { font-size: 12px; letter-spacing: 1px; color: #7f86a8; }
+  #error {
+    position: absolute; inset: auto 0 0 0; padding: 10px; text-align: center;
+    background: #3a1220; color: #ffb3c2; font-size: 13px; display: none;
+  }
+  footer { font-size: 12px; color: #6b7194; padding-bottom: 18px; text-align: center; }
+  footer a { color: #7c9cff; }
+</style>
+</head>
+<body>
+<header>
+  <a href="index.html">&larr; Arcade</a>
+  <h1 id="title">TIC-80</h1>
+  <span id="meta"></span>
+</header>
+<div id="frame">
+  <div id="cover">
+    <div>&#9654; CLICK TO PLAY</div>
+    <div class="sub" id="sub">TIC-80 fantasy console &mdash; cartridge loaded fully offline</div>
+  </div>
+  <canvas id="canvas" width="256" height="144"></canvas>
+  <div id="error"></div>
+</div>
+<footer>
+  TIC-80 console &copy; NESBOX / edubart (MIT) &middot;
+  <a href="tic80.html?cart=pong" id="dl">download this cartridge (.tic)</a>
+</footer>
+<script>
+(function () {
+  "use strict";
+  var params = new URLSearchParams(location.search);
+  var cart = params.get("cart") || "pong";
+  var cartUrl = new URL("carts/" + cart + ".tic", location.href).href;
+  document.getElementById("dl").href = cartUrl;
+
+  var module = null;
+  var booted = false;
+
+  function showError(msg) {
+    var el = document.getElementById("error");
+    el.textContent = msg;
+    el.style.display = "block";
+  }
+
+  // Fill in title/author/description from the catalog (best effort, offline).
+  fetch("catalog.json").then(function (r) { return r.json(); }).then(function (catalog) {
+    var g = null;
+    for (var i = 0; i < catalog.games.length; i++)
+      if (catalog.games[i].slug === cart) { g = catalog.games[i]; break; }
+    if (!g) return;
+    document.title = g.title + " — TIC-80";
+    document.getElementById("title").textContent = g.title;
+    var meta = [];
+    if (g.author) meta.push("by " + g.author);
+    if (typeof g.rating === "number" && g.rating > 0) meta.push("rating " + g.rating);
+    if (g.desc) meta.push(g.desc);
+    document.getElementById("meta").textContent = meta.join(" · ");
+  }).catch(function () {});
+
+  function boot() {
+    if (booted) return;
+    booted = true;
+    var canvas = document.getElementById("canvas");
+    var cover = document.getElementById("cover");
+    canvas.style.display = "block";
+    cover.style.display = "none";
+
+    // Same loading protocol as the official tic80.com web player:
+    // fetch the JS glue, import it from a blob URL, point locateFile at the
+    // local wasm, and hand the cart path to the runtime as argument #1.
+    fetch("player/tic80.js").then(function (r) { return r.text(); }).then(function (text) {
+      var blobUrl = URL.createObjectURL(new Blob([text], { type: "application/javascript" }));
+      return import(/* webpackIgnore: true */ blobUrl).then(function (m) {
+        return m.default({
+          canvas: canvas,
+          locateFile: function (p) {
+            return p === "tic80.wasm" ? new URL("player/tic80.wasm", location.href).href : p;
+          },
+          saveAs: function (blob, filename) {
+            var u = URL.createObjectURL(blob);
+            var a = document.createElement("a");
+            a.href = u; a.download = filename;
+            document.body.appendChild(a); a.click(); a.remove();
+          },
+          showAddPopup: function (callback) {
+            var input = document.createElement("input");
+            input.type = "file";
+            input.addEventListener("change", function (ev) {
+              var file = ev.target.files && ev.target.files[0];
+              if (!file) { callback(null, null); return; }
+              var reader = new FileReader();
+              reader.onload = function () {
+                callback(file.name, new Uint8Array(reader.result));
+              };
+              reader.readAsArrayBuffer(file);
+            });
+            input.click();
+          },
+          arguments: [cartUrl]
+        });
+      }).then(function (mod) {
+        module = mod;
+        URL.revokeObjectURL(blobUrl);
+      });
+    }).catch(function (err) {
+      console.error(err);
+      showError("Could not start the TIC-80 player (" + (err && err.message ? err.message : err) + "). Reload the page and click again.");
+    });
+  }
+
+  document.getElementById("cover").addEventListener("click", boot);
+  window.addEventListener("beforeunload", function () {
+    if (module && typeof module._force_exit === "function") {
+      try { module._force_exit(); } catch (e) {}
+    }
+  });
+})();
+</script>
+</body>
+</html>

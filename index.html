@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unblocked Arcade — 720 offline games</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8E%A8%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="bg-glow" aria-hidden="true"></div>
+
+<header class="top">
+  <div class="brand">
+    <span class="logo">&#9635;</span>
+    <div>
+      <h1>Unblocked Arcade</h1>
+      <p class="tagline">720 games &middot; 100% offline &middot; every game downloadable</p>
+    </div>
+  </div>
+  <a class="btn btn-dl all-dl" href="downloads/all-games.zip" title="ZIP of the entire archive (built on first click)">
+    &#8681; Download all
+  </a>
+</header>
+
+<nav class="controls">
+  <input id="search" type="search" placeholder="Search 720 games&hellip;" autocomplete="off" spellcheck="false">
+  <div id="chips" class="chips"></div>
+  <select id="sort" title="Sort">
+    <option value="az">A &rarr; Z</option>
+    <option value="za">Z &rarr; A</option>
+    <option value="big">Largest</option>
+    <option value="rated">Top rated (TIC-80)</option>
+  </select>
+</nav>
+
+<main>
+  <p id="count" class="count"></p>
+  <div id="grid" class="grid"></div>
+</main>
+
+<footer>
+  <p>
+    All game files are served locally from this machine &mdash; no internet needed.
+    Use <em>Download</em> on any card to save a copy (single files or ZIPs), or grab
+    <a href="downloads/all-games.zip">the entire archive</a>.
+  </p>
+  <p class="fineprint">
+    Games are sourced from public GitHub archives (perfectnip, nativegames, monkeygg2,
+    entraptadoez, nesbox/tic80web). They remain the property of their respective authors
+    and developers. This archive is for personal, offline use &mdash; please don&rsquo;t
+    redistribute it publicly.
+  </p>
+</footer>
+
+<script src="vendor/jszip.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
